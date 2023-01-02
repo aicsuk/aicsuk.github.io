@@ -1,0 +1,100 @@
+/*效果看本站文章侧边目录*/
+.toc-link.active {
+    background: #FCA4D4
+}
+
+/******************************************************/
+/*顶部栏*/
+#page-header.nav-fixed #nav{
+	background: rgba(246, 239, 246, 0.61) !important;
+	backdrop-filter: blur(8px) !important;
+}
+[data-theme=dark]
+#page-header.nav-fixed #nav{
+	background: rgba(79, 76, 79, 0.35) !important;
+	backdrop-filter: blur(8px) !important;
+}
+
+#nav .show{
+	background: rgba(246, 239, 246, 0.61) !important;
+	backdrop-filter: blur(8px) !important;
+}
+[data-theme=dark]
+#nav .show{
+	background: rgba(79, 76, 79, 0.35) !important;
+	backdrop-filter: blur(8px) !important;
+}
+
+/*手机模式侧边栏*/
+#sidebar #sidebar-menus.open{
+	background:rgba(246, 239, 246, 0.75) !important;
+	backdrop-filter: blur(3px);
+	border-radius: 6px 0 0 6px;
+}
+[data-theme=dark]
+#sidebar #sidebar-menus.open{
+	background:rgba(252, 224, 252, 0.11) !important;
+	backdrop-filter: blur(3px);
+	border-radius: 6px 0 0 6px;
+}
+/*侧边控制按钮*/
+#rightside > #rightside-config-show > #rightside_config,
+#rightside > #rightside-config-show > #to_comment,
+#rightside > #rightside-config-show > #go-up, 
+#rightside > #rightside-config-show > #go-down,
+#rightside > #rightside-config-hide > #readmode,
+#rightside > #rightside-config-hide > #translateLink,
+#rightside > #rightside-config-hide > #hide-aside-btn {
+	background: opacity(0.3);
+	backdrop-filter: blur(3px);
+}
+[data-theme=dark]
+#rightside > #rightside-config-show > #rightside_config,
+#rightside > #rightside-config-show > #to_comment,
+#rightside > #rightside-config-show > #go-up,
+#rightside > #rightside-config-show > #go-down,
+#rightside > #rightside-config-hide > #readmode,
+#rightside > #rightside-config-hide > #translateLink,
+#rightside > #rightside-config-hide > #hide-aside-btn {
+	background: opacity(0.3);
+	backdrop-filter: blur(3px);
+}
+/*搜索*/
+#local-search .search-dialog,
+#local-search .search-dialog .local-search-box input{
+	background:rgba(246, 239, 246, 0.75) !important;
+	backdrop-filter: blur(3px);
+	border-radius: 6px 6px;
+}
+[data-theme=dark]
+#local-search .search-dialog,
+#local-search .search-dialog .local-search-box input{
+	background:rgba(252, 224, 252, 0.2) !important;
+	backdrop-filter: blur(3px);
+	border-radius: 6px 6px;
+}
+/*******************************************************/
+
+#footer {
+    background: transparent !important; /*全透明，已选用*/
+}
+
+/* 半透明以及透明色，未选用，
+#footer {
+    background: rgba(255,255,255,.15);
+    color: #000;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    backdrop-filter: saturate(100%) blur(5px)
+}
+#footer::before {
+    background: rgba(255,255,255,.15)
+}
+*/
+#footer #footer-wrap {
+    color: var(--font-color);
+}
+
+#footer #footer-wrap a {
+    color: var(--font-color);
+}
