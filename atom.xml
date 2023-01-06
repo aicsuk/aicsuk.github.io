@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  <subtitle>一个小小的博客</subtitle>
+  <link href="https://www.aicsuk.net/atom.xml" rel="self"/>
+  
+  <link href="https://www.aicsuk.net/"/>
+  <updated>2022-12-31T08:13:58.753Z</updated>
+  <id>https://www.aicsuk.net/</id>
+  
+  <author>
+    <name>Aicsuk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>愿此去前路皆坦途——2022年终总结</title>
+    <link href="https://www.aicsuk.net/liferecord/2022zongjie.html"/>
+    <id>https://www.aicsuk.net/liferecord/2022zongjie.html</id>
+    <published>2022-12-31T08:00:00.000Z</published>
+    <updated>2022-12-31T08:13:58.753Z</updated>
+    
+    <content type="html"><![CDATA[<p>这算是我第二次在博客上写年终总结。</p><p>又是一年最后一天，往年在单位的这段时间，都已经开始交手写的年终工作总结报告了。</p><h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p><strong>今年是自己人生中的一个转折点。</strong></p><p>上半年，自己开始负责一些单位交给的任务，也向组织递交了入党申请书。三月份还参加了单位组织的活动并取得了全单位第二名的好成绩。</p><p>原本都计划下半年选取为二级军士后慢慢向骨干方向培养，结果在下半年时犯了一个错误，导致自己脱下戎装，遗憾退伍。</p><p><img src="https://cdn.aicsuk.net/2022/12/31/63afe9209e704.jpg?x-oss-process=1" alt="再见，人民空军" loading="lazy">{height&#x3D;”200px” width&#x3D;”267px”}</p><p>最后一个季度，自己也找了一段时间的工作。事业单位、私企、消防，自己都去尝试过应聘，甚至还去兼职送过一段时间的外卖。幸好在今年的最后一个月，自己成功面试了一家国企，年后入职。</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>9月1日上午，当我走出军营的那一刻，我才意识到，自己以后再也没有机会穿上这身空军蓝了。当天下午18时，受疫情，全成都开始原则居家，一直居家半个月之久。</p><p>10月，买了自己人生中第一辆摩托车——豪爵UHR150，至此，我在哪，它在哪。</p><p>12月，骑着自己的摩托车，从成都回到老家达州渠县，360多公里骑了8个小时左右。</p><p>今年，最开心的就是自己的房子装修完成，赶在跨年前搬进了新家，从此自己在成都正式安家落户。</p><h2 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h2><p>由于自己原本打算留队，所以上半年自己一直在努力锻炼。以前自己体能四项基础科目和三项专项科目有一大半不能及格，锻炼以后，今年一季度考核，七项科目自己及格了六项，体重也降到了70KG。</p><p>然而下半年退伍后，自己开始摆烂，不再锻炼，现在也不知道自己体能还有几项能及格了。😂</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>希望2023年自己能安安稳稳的度过。</p><p>愿，此去前路皆坦途，归来亦无悔。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这算是我第二次在博客上写年终总结。&lt;/p&gt;
+&lt;p&gt;又是一年最后一天，往年在单位的这段时间，都已经开始交手写的年终工作总结报告了。&lt;/p&gt;
+&lt;h2 id=&quot;工作&quot;&gt;&lt;a href=&quot;#工作&quot; class=&quot;headerlink&quot; title=&quot;工作&quot;&gt;&lt;/a&gt;工作&lt;/h2&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="总结" scheme="https://www.aicsuk.net/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客神器——Hexo便携版</title>
+    <link href="https://www.aicsuk.net/reprint/hexobianxie.html"/>
+    <id>https://www.aicsuk.net/reprint/hexobianxie.html</id>
+    <published>2022-11-24T05:12:44.000Z</published>
+    <updated>2022-12-04T13:42:27.847Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博主最近买了台新电脑，原来装好Hexo环境的老电脑目前就没怎么用，又懒得重新换电脑部署，想着看看能不能实现两台电脑同步部署。结果研究了很久，发现网上的多端部署教程都选择将Hexo备份至Github仓库。因为我博客是部署在华为云服务器上的，感觉再备份至Github仓库的话会很麻烦，所有突发奇想看看能不能实现便携式Hexo。</p><p>终于，我找到了这款Hexo懒人包，里面包含了Node.js便携版和Git便携版，理论上任何Windows系统的电脑都能直接使用，免去了新电脑Node.js和Git的安装和配置。</p><h2 id="懒人包简介"><a href="#懒人包简介" class="headerlink" title="懒人包简介"></a>懒人包简介</h2><p><img src="https://cdn.aicsuk.net/2022/11/24/637f011a7eb45.png?x-oss-process=1" alt="PortableHexo" loading="lazy"></p><p>其中，hexo文件夹是博客源文件所在文件夹，可直接将已有博客文件全部复制到此文件夹内，也可重新安装Hexo。home文件夹和support文件夹不用管。</p><p>其余批处理文件顾名思义，如果是重新安装的Hexo博客，需要执行一下配置Github部署和配置基本信息，如果是原有博客文件复制过来的就不用执行。</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>懒人包配置好后，可将懒人包放在U盘里，直接在U盘写作部署；也可以将懒人包压缩后放到网盘里。</p><p>以后不管在哪、用哪台电脑，只要U盘在，就能随时随地写东西了。🤣</p><p>这篇文章就是在新电脑上用U盘写的。</p><p>懒人包地址：<a href="https://www.bilibili.com/read/cv15172764/">Hexo懒人包5.0版本</a> ｜ <a href="https://pan.baidu.com/s/17zYeBuwm_2shHi527Ugbvw">百度网盘（提取码3n1b）</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;博主最近买了台新电脑，原来装好Hexo环境的老电脑目前就没怎么用，又懒得重新换电脑部署，想着看看能不能实现两台电脑同步部署。结果研究了很久，</summary>
+      
+    
+    
+    
+    <category term="转载分享" scheme="https://www.aicsuk.net/categories/%E8%BD%AC%E8%BD%BD%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.aicsuk.net/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【转载】【Worlds Collide燃向】劳动者战歌</title>
+    <link href="https://www.aicsuk.net/atlas/ldzzg.html"/>
+    <id>https://www.aicsuk.net/atlas/ldzzg.html</id>
+    <published>2022-11-24T04:19:37.000Z</published>
+    <updated>2023-01-05T04:45:02.907Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=455836976&bvid=BV1L5411x7ac&cid=193641072&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe 
+src=&quot;//player.bilibili.com/player.html?aid=455836976</summary>
+      
+    
+    
+    
+    <category term="音乐图集" scheme="https://www.aicsuk.net/categories/%E9%9F%B3%E4%B9%90%E5%9B%BE%E9%9B%86/"/>
+    
+    
+    <category term="红色" scheme="https://www.aicsuk.net/tags/%E7%BA%A2%E8%89%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>以后也算是成都人了</title>
+    <link href="https://www.aicsuk.net/liferecord/chengduren.html"/>
+    <id>https://www.aicsuk.net/liferecord/chengduren.html</id>
+    <published>2022-10-15T10:01:24.000Z</published>
+    <updated>2022-10-15T11:02:30.942Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.aicsuk.net/2022/10/15/634a8e142e322.jpg?x-oss-process=1" alt="介绍信" loading="lazy">{width&#x3D;”800px”}</p><p>新身份证到了，从此以后也算是个成都人了。</p><p><img src="https://cdn.aicsuk.net/2022/10/15/634a8d7b2af00.jpg?x-oss-process=1" alt="1" loading="lazy">{width&#x3D;”500px”}<br><img src="https://cdn.aicsuk.net/2022/10/15/634a8d7d431ae.jpg?x-oss-process=1" alt="2" loading="lazy">{width&#x3D;”500px”}</p><p>当兵五年，得了个成都户口，还行吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.aicsuk.net/2022/10/15/634a8e142e322.jpg?x-oss-process=1&quot; alt=&quot;介绍信&quot; loading=&quot;lazy&quot;&gt;{width&amp;#x3D;”800px”}&lt;/p&gt;
+&lt;p&gt;新身份证到</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="成都" scheme="https://www.aicsuk.net/tags/%E6%88%90%E9%83%BD/"/>
+    
+    <category term="落户" scheme="https://www.aicsuk.net/tags/%E8%90%BD%E6%88%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新车100公里纪念</title>
+    <link href="https://www.aicsuk.net/liferecord/hjuhr150.html"/>
+    <id>https://www.aicsuk.net/liferecord/hjuhr150.html</id>
+    <published>2022-10-11T04:25:16.000Z</published>
+    <updated>2022-10-11T05:43:39.772Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>踏板才是最终的归宿！</p></blockquote><p>为了方便通勤和节假日周边游，我前天去提了辆摩托车，豪爵UHR150。这辆车也算是个网红车吧，网上对它的评价也很好。</p><p>这辆车是我在10月2日订的蓝色箱版现车，不过由于当时处于国庆，车管所放假了上不了牌，一直等到10月9日才上牌。<img src="https://cdn.aicsuk.net/2022/10/11/6344fbf3148db.jpg?x-oss-process=1" alt="行驶证" loading="lazy"></p><p>由于是车行代上牌，所以等拿到车时都是晚上了。</p><p>昨天，骑着这车跑了一下午，个人感觉还不错，骑行过程中最高车速80+km&#x2F;s。不过我个人感觉摩托车不适合走乡村小道，路烂颠的屁股疼。</p><p><img src="https://cdn.aicsuk.net/2022/10/11/6344fde83ad3a.jpg?x-oss-process=1" alt="1" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/10/11/6344fde9ab5c9.jpg?x-oss-process=1" alt="2" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/10/11/6344fde9a13f3.jpg?x-oss-process=1" alt="3" loading="lazy"><br>{.gallery}</p><p>另外，这辆车还配有两个USB充电口，方便骑车的时候给手机充电。一个充电口在车把下面左侧的储物格里；另一个在坐桶下面。<del>（我个人觉得坐桶下面这个充电口设计得不是很方便）</del></p><p><img src="https://cdn.aicsuk.net/2022/10/11/6344ffca245fa.jpg?x-oss-process=1" alt="第一个充电口" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/10/11/6344ffca60039.jpg?x-oss-process=1" alt="第一个充电口" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/10/11/6345001543ea3.jpg?x-oss-process=1" alt="第二个充电口" loading="lazy"><br>{.gallery}</p><p>还有，我觉得这个车最大的缺点就是后轮挡泥板太短了，一路跑下来甩得后面全是泥。</p><p><img src="https://cdn.aicsuk.net/2022/10/11/6345008448d4f.jpg?x-oss-process=1" alt="右边" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/10/11/63450084ae56a.jpg?x-oss-process=1" alt="左边" loading="lazy"><br>{.gallery}</p><p>下午4点46分，车子跑到100公里了。<img src="https://cdn.aicsuk.net/2022/10/11/634500ec937cb.jpg?x-oss-process=1" alt="里程表" loading="lazy"></p><p>整车油耗的话估计在2.6L百公里左右。车子油箱8L，油表6格，平均一格大约1.33L。</p><p><img src="https://cdn.aicsuk.net/2022/10/11/63450170cf643.jpg?x-oss-process=1" alt="沿途风景" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;踏板才是最终的归宿！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为了方便通勤和节假日周边游，我前天去提了辆摩托车，豪爵UHR150。这辆车也算是个网红车吧，网上对它的评价也很好。&lt;/p&gt;
+&lt;p&gt;这辆车是我在10月2日订的蓝色箱版现车，不过由于当时处</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="新车" scheme="https://www.aicsuk.net/tags/%E6%96%B0%E8%BD%A6/"/>
+    
+    <category term="豪爵" scheme="https://www.aicsuk.net/tags/%E8%B1%AA%E7%88%B5/"/>
+    
+    <category term="豪爵UHR150" scheme="https://www.aicsuk.net/tags/%E8%B1%AA%E7%88%B5UHR150/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</title>
+    <link href="https://www.aicsuk.net/toss/hexonote-1.html"/>
+    <id>https://www.aicsuk.net/toss/hexonote-1.html</id>
+    <published>2022-09-16T08:32:54.000Z</published>
+    <updated>2022-09-16T09:49:35.671Z</updated>
+    
+    <content type="html"><![CDATA[<p>近期将博客换成Hexo之后，最开始是部署在Github Pages上面，访问时一切正常。后面觉得Github Pages访问速度时快时慢，边重新部署在国内的华为云服务器上，这时问题就出来了，评论系统里面的表情图片正常情况下加载不出来，要搭梯子才行。<img src="https://cdn.aicsuk.net/2022/09/15/63227952eaa1e.png?x-oss-process=1" alt="表情加载失败" loading="lazy"></p><p>后来参考了<a href="https://www.reversesacle.com/">ReverseSacle大佬</a>关于[Shoka主题功能的一些补充介绍](<a href="https://www.reversesacle.com/Supplement-for-theme-of-shoka/">Hexo-Shoka主题功能介绍补充点 | ReverseSacle-Blog &#x3D; 逆转天平 &#x3D; 执着过去的人,无法迈向未来</a>)一文，并请教了ReverseSacle大佬后才了解到，shoka 主题使用的是 <code>Valine-Admin</code> 魔改评论系统，基本上都使用了<code> Jsdelivr</code> 的资源，并由于国内的服务器无法访问资源才导致的表情加载失败。</p><p>为防止自己以后会忘记，特此记录下解决过程。</p><h3 id="Vercel-反代-Jsdelivr-的加速链接"><a href="#Vercel-反代-Jsdelivr-的加速链接" class="headerlink" title="Vercel 反代 Jsdelivr 的加速链接"></a>Vercel 反代 Jsdelivr 的加速链接</h3><p>这一步，ReverseSacle大佬的文章中是以 <code>Windows10</code> 系统为例，但我习惯使用 <code>Linux</code> 系统，所以此次我使用 <code>Centos 8.2</code> 系统为例。</p><ul><li><p>安装 <code>Node.js</code> </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">yum install update</span><br><span class="line">yum install nodejs</span><br><span class="line">yum install npm</span><br><span class="line">npm install -g n</span><br><span class="line">n lts</span><br></pre></td></tr></table></figure></li><li><p>安装 <code>vercel</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g vercel</span><br></pre></td></tr></table></figure></li><li><p>安装完 <code>vercel</code> 后，输入 <code>vercel login</code> ，会让你选择登陆 <code>vercel</code> 的方式（选择的位置以 <code>等待输入光标</code> 为准， <code>Enter</code> 键确认，具体依情况选择)，之后会跳出登入页面<img src="https://cdn.aicsuk.net/2022/09/16/63244032ccfbb.png" alt="如图所示" loading="lazy"><br>这里我使用的是邮箱登陆，会出现下图中的情况，这是 <code>vercel</code> 给你登陆邮箱发送了确认邮件，需要你在邮件中点击确认链接才能登陆<img src="https://cdn.aicsuk.net/2022/09/16/632442beabef2.png" alt="邮箱登陆" loading="lazy"></p></li><li><p>新建一个名为 <code>jd_gh</code> 文件夹 (名字自定义)，进入到 jd_gh 文件夹中，新建一个 <code>jd_gh.json</code> 文件 (名字自定义)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">mkdir jd_gh</span><br><span class="line">cd jd_gh</span><br><span class="line">touch jd_gh.json</span><br></pre></td></tr></table></figure></li><li><p>用 <code>文本编辑器</code> 打开 <code>jd_gh.json</code> 文件并输入下方反代代码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">        &quot;version&quot;: 2,</span><br><span class="line">        &quot;routes&quot;: [</span><br><span class="line">                &#123;&quot;src&quot;: &quot;/(.*)&quot;,&quot;dest&quot;: &quot;https://cdn.jsdelivr.net/$1&quot;&#125;</span><br><span class="line">                ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>最后输入命令 <code>vercel -A jd_gh.json --prod</code> 来在 vercel 上部署</p></li><li><p>++注意 <code>what&#39;s your project&#39;s name?</code> 这个提示，此处是提示输入你部署项目所需要的名称 (按喜好来定就行了，另外这里不支持特殊字符， <code>-</code> 号除外)，其他的选项按下方图片提示来选择即可++{.dot}<img src="https://cdn.aicsuk.net/2022/09/16/63244364d92b3.webp" alt="直接使用ReverseSacle大佬的图" loading="lazy"></p></li><li><p>最后，进入 Vercel 官网，登入后可以看到刚刚创建的项目，点击项目，进入后记录下 <code>DOMAINS</code> 处的链接，也可以绑定自己的域名使用</p></li></ul><h3 id="解决评论区表情图片加载失败问题"><a href="#解决评论区表情图片加载失败问题" class="headerlink" title="解决评论区表情图片加载失败问题"></a>解决评论区表情图片加载失败问题</h3><ul><li><p>在 <a href="https://github.com/amehime/MiniValine/blob/master/dist/MiniValine.min.js">MiniValine (Github)</a> 下载 <code>MiniValine.min.js</code> 文件，并将 <code>MiniValine.min.js</code> 文件放入到 hexo 根目录的 <code>./themes/shoka/source/js</code> 文件夹中</p></li><li><p>打开 <code>MiniValine.min.js</code> 文件，找到 <code>VERSION=&quot;4.2.2&quot;</code> 这一项，将 <code>t.EUrl</code> 后链接中的XXX替换为刚刚记录的 <code>DOMAINS</code> 地址或自己绑定的域名</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">t.VERSION = &quot;4.2.2&quot;,</span><br><span class="line">t.GBUrl = &quot;https://gravatar.loli.net/avatar/&quot;,</span><br><span class="line">t.EUrl = [&quot;https://xxxx/npm/alus@latest&quot;, </span><br><span class="line">          &quot;https://xxxx/gh/MiniValine/qq@master&quot;, </span><br><span class="line">          &quot;https://xxxx/gh/MiniValine/Bilibilis@master&quot;,</span><br><span class="line">          &quot;https://xxxx/gh/MiniValine/tieba@master&quot;, </span><br><span class="line">          &quot;https://xxxx/gh/MiniValine/twemoji@master&quot;,</span><br><span class="line">          &quot;https://xxxx/gh/MiniValine/weibo@master&quot;]</span><br></pre></td></tr></table></figure></li><li><p>打开 hexo 根目录 <code>./themes/shoka/_config.yml</code> 文件，滑倒最后，找到 <code>valine</code> 元素，将其参数设为 <code>https://博客域名/js/MiniValine.min.js</code></p></li><li><p>最后修改 <code>./themes/shoka/source/js/_app/utils.js</code>文件第26~35行处</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">//将此代码if(str.indexOf(&#x27;npm&#x27;)&gt;-1||str.indexOf(&#x27;gh&#x27;)&gt;-1||str.indexOf(&#x27;combine&#x27;)&gt;-1)</span><br><span class="line">//拆分为下面的代码</span><br><span class="line">  if(str.indexOf(&#x27;npm&#x27;)&gt;-1||str.indexOf(&#x27;combine&#x27;)&gt;-1)</span><br><span class="line">     return &quot;https://cdn.jsdelivr.net/&quot; + str</span><br><span class="line"></span><br><span class="line">  if(str.indexOf(&#x27;js&#x27;)&gt;-1)</span><br><span class="line">    return str  </span><br><span class="line">    </span><br><span class="line">  if(str.indexOf(&#x27;gh&#x27;)&gt;-1)</span><br><span class="line">    return &quot;https://cdn.jsdelivr.net/&quot; + str</span><br><span class="line">    </span><br><span class="line">//代码示例</span><br><span class="line">const assetUrl = function(asset, type) &#123;</span><br><span class="line">  var str = CONFIG[asset][type]</span><br><span class="line">  </span><br><span class="line">  if(str.indexOf(&#x27;npm&#x27;)&gt;-1||str.indexOf(&#x27;combine&#x27;)&gt;-1)</span><br><span class="line">     return &quot;https://cdn.jsdelivr.net/&quot; + str</span><br><span class="line"></span><br><span class="line">  if(str.indexOf(&#x27;js&#x27;)&gt;-1)</span><br><span class="line">    return str  </span><br><span class="line">    </span><br><span class="line">  if(str.indexOf(&#x27;gh&#x27;)&gt;-1)</span><br><span class="line">    return &quot;https://cdn.jsdelivr.net/&quot; + str</span><br><span class="line"></span><br><span class="line">  return statics + str;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;近期将博客换成Hexo之后，最开始是部署在Github Pages上面，访问时一切正常。后面觉得Github Pages访问速度时快时慢，边重新部署在国内的华为云服务器上，这时问题就出来了，评论系统里面的表情图片正常情况下加载不出来，要搭梯子才行。&lt;img src=&quot;htt</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.aicsuk.net/tags/Hexo/"/>
+    
+    <category term="Shoka主题" scheme="https://www.aicsuk.net/tags/Shoka%E4%B8%BB%E9%A2%98/"/>
+    
+    <category term="Valine" scheme="https://www.aicsuk.net/tags/Valine/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</title>
+    <link href="https://www.aicsuk.net/toss/bkzt.html"/>
+    <id>https://www.aicsuk.net/toss/bkzt.html</id>
+    <published>2022-09-14T07:21:32.000Z</published>
+    <updated>2022-09-14T12:25:38.457Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近因为疫情原因，天天在家里也无聊得很，想着没事就试着折腾一下Hexo。</p><p>刚开始还不会整Hexo博客，感觉要比Typecho要麻烦的多。经过两天的学习操作，终于建好了Hexo，本着<del>建好了就不浪费</del>的原则，决定以后就用Hexo了。</p><p>目前博客程序为Hexo，使用<a href="https://github.com/amehime/hexo-theme-shoka">Theme.Shoka</a>主题，部署在华为云服务器上。</p><p>现在记录一下这个Hexo博客从搭建、配置和部署到云服务器的整个过程，免得以后自己忘了。</p><h3 id="Hexo本地安装"><a href="#Hexo本地安装" class="headerlink" title="Hexo本地安装"></a>Hexo本地安装</h3><h4 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h4><ul><li>下载安装<a href="https://nodejs.org/en/download/">Node.js</a>（Node.js 版本需不低于 10.13，Node自带npm）</li><li>下载安装<a href="https://git-scm.com/download/win">Git</a></li></ul><h4 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h4><ul><li>在自己喜欢的位置新建Hexo文件夹</li><li>进入新建的Hexo文件夹，右键点击打开Git Bash Here<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">#在Hexo目录下安装Hexo</span><br><span class="line">npm install -g hexo-cli</span><br><span class="line">#检测Hexo是否安装成功</span><br><span class="line">hexo -v</span><br><span class="line">#初始化Hexo，并新建blog文件夹</span><br><span class="line">hexo init blog</span><br><span class="line">#转到刚初始化的blog文件夹下，安装npm依赖项，并生成静态文件</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo g</span><br><span class="line">#启动Hexo服务器</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></li><li>访问<a href="http://localhost:4000，出现Hexo页面">http://localhost:4000，出现Hexo页面</a></li></ul><h3 id="安装Shoka主题"><a href="#安装Shoka主题" class="headerlink" title="安装Shoka主题"></a>安装Shoka主题</h3><ul><li><p>安装主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># cd your-blog</span><br><span class="line">git clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka</span><br></pre></td></tr></table></figure></li><li><p><a href="https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/">安装主题依赖插件</a></p></li><li><p>修改Hexo博客配置文件_config.yml</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: Shoka</span><br></pre></td></tr></table></figure></li><li><p>生成静态文件并发布</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></li><li><p>访问<a href="http://localhost:4000/">http://localhost:4000</a> 进行预览，没问题的情况下就可以将博客部署到服务器上了。</p></li></ul><h3 id="部署到云服务器"><a href="#部署到云服务器" class="headerlink" title="部署到云服务器"></a>部署到云服务器</h3><ul><li><p>在自己的电脑上生成 Git 密钥</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -C &quot;your@mail.com&quot;</span><br></pre></td></tr></table></figure><p>一路回车，这时你应该可以在 ~&#x2F;.ssh&#x2F; 目录下看到两个刚刚生成好的密钥文件：<br>1. 公钥：id_rsa.pub<br>2. 私钥：id_rsa<br>我们一会需要把公钥的内容拷贝到服务器上</p></li><li><p>服务器环境配置<br>一般刚重装完系统的云服务器非常纯净，什么也没有，所以我们要一点点安装我们所需的内容<br>1. Git<br>2. Nginx</p></li><li><p>Git的安装和配置</p>  <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">#首先需要安装包的依赖</span><br><span class="line">yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel</span><br><span class="line">yum install  gcc perl-ExtUtils-MakeMaker</span><br><span class="line">#进入指定目录（这里选择 `usr/local/src`）选择最新版本 [Git](https://mirrors.edge.kernel.org/pub/software/scm/git/) （这里使用 `2.37.3`）下载并解压</span><br><span class="line">cd /usr/local/src</span><br><span class="line">wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.37.3.tar.gz</span><br><span class="line">tar -zxvf git-2.37.3.tar.gz</span><br><span class="line">#解压出来的 Git 文件都是源文件，我们需要进行编译，进入 Git 解压目录，进行编译和安装, 安装位置（这里选择 `usr/local/git`）, 整个过程可能需要一定等待。</span><br><span class="line">cd git-2.37.3</span><br><span class="line">make prefix=/usr/local/git all</span><br><span class="line">make prefix=/usr/local/git install</span><br><span class="line">#安装好后，我们需要配置环境变量，打开环境变量配置文件：</span><br><span class="line">vim /etc/profile</span><br><span class="line">#在文件底部添加 Git 安装目录信息。</span><br><span class="line">PATH=$PATH:/usr/local/git/bin</span><br><span class="line">export PATH</span><br><span class="line">#刷新环境变量，使之生效</span><br><span class="line">source /etc/profile</span><br><span class="line">#此时 Git 应该已经安装完成，可以查看 Git 版本号是否和你指定的版本一样：</span><br><span class="line">git --version</span><br></pre></td></tr></table></figure></li><li><p>Git 新用户与配置</p> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">#创建 git 用户和密码</span><br><span class="line">adduser git</span><br><span class="line">passwd git</span><br><span class="line">#将 git 用户添加到 sudoers 文件中</span><br><span class="line">chmod 740 /etc/sudoers</span><br><span class="line">vim /etc/sudoers</span><br><span class="line">#在Allow root to run any commands anywhere下面添加 git 用户内容, 保存并退出</span><br><span class="line">git      ALL=(ALL)       ALL</span><br><span class="line">#修改回 sudoers 文件权限</span><br><span class="line">chmod 400 /etc/sudoers</span><br></pre></td></tr></table></figure></li><li><p>测试<br>通过Git Bash Here将上面本地生成的 id_rsa.pub 公钥内容拷贝到远端服务器, 这个命令会默认在远端服务器 git 用户主目录下生成 <code>authorized_keys</code> 文件 （~&#x2F;.ssh&#x2F;authorized_keys）, 其中 <code>server_ip</code> 为公网 IP，不是内部 IP，别拷贝错了</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-copy-id -i ~/.ssh/id_rsa.pub git@server_ip</span><br></pre></td></tr></table></figure><p>此时可以通过 ssh 命令(加上 <code>-v</code> 命令，可以输出详细 log)测试连接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -v git@server_ip</span><br></pre></td></tr></table></figure></li></ul><h4 id="博客网站目录配置"><a href="#博客网站目录配置" class="headerlink" title="博客网站目录配置"></a>博客网站目录配置</h4><ul><li>创建博客网站目录位置<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">#为博客网站创建根目录（这里选择 `/home/hexo`）</span><br><span class="line">mkdir /home/hexo</span><br><span class="line">#赋予 git 用户权限</span><br><span class="line">chown git:git -R /home/hexo</span><br></pre></td></tr></table></figure></li><li>自动化配置<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">  #指定目录位置（这里选择 git 用户主目录 `/home/git`）创建一个名为 `blog.git` 的 `bare repo`</span><br><span class="line">  cd /home/git </span><br><span class="line">  git init --bare blog.git</span><br><span class="line">  #同样赋予 git 用户相应权限</span><br><span class="line">  chown git:git -R blog.git</span><br><span class="line">  #使用自动化配置，自然是要用到 Git 的钩子函数，这里我们需要 `post-receive`，在博客 hooks 目录下新建该文件：</span><br><span class="line">vim blog.git/hooks/post-receive</span><br><span class="line">  #然后添加如下内容(注意目录匹配)，保存并退出：</span><br><span class="line">  #!/bin/sh</span><br><span class="line">  git --work-tree=/home/hexo --git-dir=/home/git/blog.git checkout -f</span><br><span class="line">  #最后，赋予这个文件可执行权限</span><br><span class="line">  chmod +x /home/git/blog.git/hooks/post-receive</span><br><span class="line">  #接下来，创建个链接，以防后续 deploy 过程出错</span><br><span class="line">  sudo ln -s /usr/local/git/bin/git-receive-pack  /usr/bin/git-receive-pack</span><br></pre></td></tr></table></figure></li></ul><h4 id="Nginx-安装和配置"><a href="#Nginx-安装和配置" class="headerlink" title="Nginx 安装和配置"></a>Nginx 安装和配置</h4><ul><li><p>安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yum install -y nginx</span><br><span class="line">systemctl start nginx.service</span><br></pre></td></tr></table></figure><p>这时，在浏览器中输入公网 IP 地址，应该可以看到 Nginx 默认的欢迎界面</p></li><li><p>配置</p><p>这里配置 Nginx，将所有 Http 请求都重定向为 Https 请求，这就需要我们有 SSL 证书。<br>通过 <code>scp</code> 命令将 SSL 证书拷贝到远端服务器, 正常应该将 Nginx 的证书存放在 <code>/etc/nginx/cert</code> 目录下，这里选择存放在 <code>/home/ssl_cert</code> 下（如果目录不存在，请自行创建）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">scp ~/路径/证书.key root@server_ip:/home/ssl_cert</span><br><span class="line">scp ~/路径/证书.pem root@server_ip:/home/ssl_cert</span><br></pre></td></tr></table></figure><p>然后打开 Nginx 的配置文件进行整体配置</p></li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">server&#123;</span><br><span class="line">    listen 80;</span><br><span class="line">    server_name dayarch.top; # 个人域名</span><br><span class="line">    rewrite ^(.*)$ https://$server_name$1 permanent; # 重定向</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">server &#123;</span><br><span class="line">    listen 443; </span><br><span class="line">    server_name dayarch.top;  # 个人域名</span><br><span class="line">    ssl on; </span><br><span class="line">    ssl_certificate      /路径/证书.pem; # .pem 证书</span><br><span class="line">    ssl_certificate_key  /路径/证书.key; # .key 证书</span><br><span class="line">    ssl_session_cache    shared:SSL:1m;</span><br><span class="line">    ssl_session_timeout  5m;</span><br><span class="line">    ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;</span><br><span class="line">    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;</span><br><span class="line">    ssl_prefer_server_ciphers  on;</span><br><span class="line"></span><br><span class="line">    location / &#123;</span><br><span class="line">        root   /home/hexo;  # 博客网站主目录</span><br><span class="line">        index index.php  index.html index.htm; </span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    error_page  404              /404.html;</span><br><span class="line">    location = /404.html &#123;</span><br><span class="line">        root   /usr/share/nginx/html;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    error_page   500 502 503 504  /50x.html;</span><br><span class="line">    location = /50x.html &#123;</span><br><span class="line">        root   /usr/share/nginx/html;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>  通过 <code>nginx -t</code> 命令进行检查，一切正常会输出如下结果：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">nginx: the configuration file /etc/nginx/nginx.conf syntax is ok</span><br><span class="line">nginx: configuration file /etc/nginx/nginx.conf test is successful</span><br></pre></td></tr></table></figure><p>  重启 Nginx 服务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl restart nginx.service</span><br></pre></td></tr></table></figure><p>  至此，所有的准备工作都做完了，接下来，我们需要做一些博客配置</p><h4 id="本地博客配置修改"><a href="#本地博客配置修改" class="headerlink" title="本地博客配置修改"></a>本地博客配置修改</h4><p>  我们需要将远端服务器的 Git 仓库信息配置到 Hexo 站点配置文件（<code>_config.yml</code>）中</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">   - type: git</span><br><span class="line">    repo: git@server_ip:/home/git/blog.git</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure><p>  陆续执行 hexo 的命令进行部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure><p>  至此，距离成功，我们只差最后一步</p><h4 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h4><p>  配置好域名解析，将其指向云服务器的公网地址即可。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近因为疫情原因，天天在家里也无聊得很，想着没事就试着折腾一下Hexo。&lt;/p&gt;
+&lt;p&gt;刚开始还不会整Hexo博客，感觉要比Typecho要麻烦的多。经过两天的学习操作，终于建好了Hexo，本着&lt;del&gt;建好了就不浪费&lt;/del&gt;的原则，决定以后就用Hexo了。&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="hexo" scheme="https://www.aicsuk.net/tags/hexo/"/>
+    
+    <category term="Typecho" scheme="https://www.aicsuk.net/tags/Typecho/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原则居家的第十二天</title>
+    <link href="https://www.aicsuk.net/liferecord/jujia.html"/>
+    <id>https://www.aicsuk.net/liferecord/jujia.html</id>
+    <published>2022-09-12T09:39:56.000Z</published>
+    <updated>2022-11-24T05:02:32.481Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=900403092&bvid=BV1BP4y1Z7Z3&cid=830713520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div><p>9月1日博主刚回到家，成都就开始采取居家不外出的措施。一直到今天，满打满算都有12天了。天天待在家里，待的人都废了。<br>原则上居家不外出，这样说的话外出了就是不讲原则吗？<br>外面的街上连个人影都没有</p><p><img src="https://cdn.aicsuk.net/2022/09/12/631efb6a489ba.jpg?x-oss-process=1" alt="空无一人的大街" title="空无一人的大街" loading="lazy"></p><p>龙泉驿区现在都有好几天没有新增了，希望下一批解封的区县里面就有龙泉驿区。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe 
+src=&quot;//player.bilibili.com/player.html?aid=900403092</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="疫情" scheme="https://www.aicsuk.net/tags/%E7%96%AB%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>五年之期已到</title>
+    <link href="https://www.aicsuk.net/liferecord/tui.html"/>
+    <id>https://www.aicsuk.net/liferecord/tui.html</id>
+    <published>2022-09-02T09:21:18.000Z</published>
+    <updated>2022-09-13T12:51:22.037Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.aicsuk.net/2022/09/02/6311ca2da6e8f.jpg" alt="退伍证书" title="退伍证书" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/02/6311c99743ca2.jpg" alt="单位纪念" title="单位纪念" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/02/6311ffbd07429.jpg" alt="1828天" title="1828天" loading="lazy"><br>五年了，终于熬出头了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.aicsuk.net/2022/09/02/6311ca2da6e8f.jpg&quot; alt=&quot;退伍证书&quot; title=&quot;退伍证书&quot; loading=&quot;lazy&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://cdn.aicsuk.ne</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="退伍" scheme="https://www.aicsuk.net/tags/%E9%80%80%E4%BC%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>忍不住又在服务器上花钱了</title>
+    <link href="https://www.aicsuk.net/toss/server-1.html"/>
+    <id>https://www.aicsuk.net/toss/server-1.html</id>
+    <published>2022-07-06T13:50:31.000Z</published>
+    <updated>2022-09-13T12:47:51.102Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;最近这个月沉迷服务器无法自拔，先买了华为云的云服务器，然后又买了天翼云的云服务器，博客也从之前的腾讯云香港搬到了华为云。<br>&amp;emsp;&amp;emsp;本来现在天翼云的服务器还在备案，想着等备案下来之后再把博客搬到天翼云的，结果现在又变卦了，买了台镇江的物理服务器，过几天应该会把博客搬到镇江的服务器上。<br>&amp;emsp;&amp;emsp;这个月买服务器都花了接近2000块钱了。<br>&amp;emsp;&amp;emsp;这台镇江的独服配置是我有史以来用过的配置最高的服务器，16核处理器、32G内存、512G硬盘、50M宽带，是我以前最开始接触建站时想都不敢想的配置 。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line">-------------------- A Bench.sh Script By Teddysun -------------------</span><br><span class="line"> Version            : v2022-06-01</span><br><span class="line"> Usage              : wget -qO- bench.sh | bash</span><br><span class="line">----------------------------------------------------------------------</span><br><span class="line"> CPU Model          : Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz</span><br><span class="line"> CPU Cores          : 32 @ 2300.325 MHz</span><br><span class="line"> CPU Cache          : 20480 KB</span><br><span class="line"> AES-NI             : Enabled</span><br><span class="line"> VM-x/AMD-V         : Enabled</span><br><span class="line"> Total Disk         : 467.5 GB (5.4 GB Used)</span><br><span class="line"> Total Mem          : 31.3 GB (1.4 GB Used)</span><br><span class="line"> Total Swap         : 976.0 MB (0 Used)</span><br><span class="line"> System uptime      : 0 days, 21 hour 22 min</span><br><span class="line"> Load average       : 0.00, 0.00, 0.00</span><br><span class="line"> OS                 : Debian GNU/Linux 11</span><br><span class="line"> Arch               : x86_64 (64 Bit)</span><br><span class="line"> Kernel             : 5.10.0-8-amd64</span><br><span class="line"> TCP CC             :</span><br><span class="line"> Virtualization     : Dedicated</span><br><span class="line"> Organization       : AS56046 China Mobile communications corporation</span><br><span class="line"> Location           : Zhenjiang / CN</span><br><span class="line"> Region             : Jiangsu</span><br><span class="line">----------------------------------------------------------------------</span><br><span class="line"> I/O Speed(1st run) : 843 MB/s</span><br><span class="line"> I/O Speed(2nd run) : 886 MB/s</span><br><span class="line"> I/O Speed(3rd run) : 888 MB/s</span><br><span class="line"> I/O Speed(average) : 872.3 MB/s</span><br><span class="line">----------------------------------------------------------------------</span><br><span class="line"> Node Name        Upload Speed      Download Speed      Latency</span><br><span class="line"> Speedtest.net    47.48 Mbps        97.68 Mbps          2.46 ms</span><br><span class="line"> Los Angeles, US  15.84 Mbps        1.51 Mbps           175.46 ms</span><br><span class="line"> Montreal, CA     15.57 Mbps        1.13 Mbps           205.37 ms</span><br><span class="line"> Paris, FR        18.21 Mbps        1.54 Mbps           224.56 ms</span><br><span class="line"> Amsterdam, NL    11.68 Mbps        1.45 Mbps           226.40 ms</span><br><span class="line"> Shanghai, CN     44.57 Mbps        98.55 Mbps          11.79 ms</span><br><span class="line"> Singapore, SG    4.43 Mbps         12.94 Mbps          428.94 ms</span><br><span class="line">----------------------------------------------------------------------</span><br><span class="line"> Finished in        : 7 min 46 sec</span><br><span class="line"> Timestamp          : 2022-07-06 21:40:17 CST</span><br><span class="line">----------------------------------------------------------------------</span><br></pre></td></tr></table></figure><p>&amp;emsp;&amp;emsp;我从最开始建站时用别人的免费主机，再到收费主机，后来到VPS、云服务器，到现在的物理服务器，一步步升级上来都花了8年时间。估计要是以后在升级的话，那就应该是托管服务器了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;最近这个月沉迷服务器无法自拔，先买了华为云的云服务器，然后又买了天翼云的云服务器，博客也从之前的腾讯云香港搬到了华为云。&lt;br&gt;&amp;amp;emsp;&amp;amp;emsp;本来现在天翼云的服务器还在备案，想着等备案下来之后再把博客搬到天翼</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="服务器" scheme="https://www.aicsuk.net/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录Ubuntu20.04升级到Ubuntu22.04的过程</title>
+    <link href="https://www.aicsuk.net/toss/Ubuntu22-04.html"/>
+    <id>https://www.aicsuk.net/toss/Ubuntu22-04.html</id>
+    <published>2022-06-25T10:20:52.000Z</published>
+    <updated>2022-09-13T12:46:05.411Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;今天我又剁手买了台天翼云的服务器，想着准备把博客迁移到天翼云服务器上。但是在选择操作系统的时候发现没有最新的Debian11系统镜像，然后纠结了半天，选择了Ubuntu 20.04。<br>&amp;emsp;&amp;emsp;但是本着“新机器新系统”的原则，感觉不把系统升级到最新就浑身不舒服，然后百度了一下，根据<a href="https://www.banwagong.net/6203.html">《搬瓦工 Ubuntu 20.04 系统手动更新升级到 Ubuntu 22.04 失败记录》</a>动手操作，最后成功升级为Ubuntu 22.04并安装最新内核。</p><h2 id="升级前的准备"><a href="#升级前的准备" class="headerlink" title="升级前的准备"></a>升级前的准备</h2><p>&amp;emsp;&amp;emsp;<strong>一定记得要备份数据</strong><br>&amp;emsp;&amp;emsp;1、首先升级系统到最新状态</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">apt update</span><br><span class="line">apt upgrade -y</span><br><span class="line">apt dist-upgrade -y</span><br><span class="line">apt autoclean</span><br><span class="line">apt autoremove -y</span><br></pre></td></tr></table></figure><p>&amp;emsp;&amp;emsp;2、升级之后需要<code>reboot</code>重启服务器，让最新的内核生效。</p><h2 id="升级方法一（个人不推荐）"><a href="#升级方法一（个人不推荐）" class="headerlink" title="升级方法一（个人不推荐）"></a><del>升级方法一</del>（个人不推荐）</h2><p>&amp;emsp;&amp;emsp;第一种方法是使用do-release-upgrade命令，这个方法比较简单，但不知道为啥，我使用这个方法时报了错，没有成功，所以我个人不推荐这个方法。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">#首先安装 update-manager-core 软件包</span><br><span class="line">apt install update-manager-core</span><br><span class="line">#然后运行 do-release-upgrade -d 即可更新，按照提示操作</span><br><span class="line">do-release-upgrade -d</span><br></pre></td></tr></table></figure><h2 id="升级方法二"><a href="#升级方法二" class="headerlink" title="升级方法二"></a>升级方法二</h2><p>&amp;emsp;&amp;emsp;1、首先更新 apt 源，替换 focal 为 jammy，注意这一步第二条代码会报错，但不影响进程。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sed -i &#x27;s/focal/jammy/g&#x27; /etc/apt/sources.list</span><br><span class="line">sed -i &#x27;s/focal/jammy/g&#x27; /etc/apt/sources.list.d/*.list</span><br></pre></td></tr></table></figure><p>&amp;emsp;&amp;emsp;国内服务器可以修改默认的系统apt源文件&#x2F;etc&#x2F;apt&#x2F;sources.list，将archive.ubuntu.com为mirrors.tuna.tsinghua.edu.cn，国外服务器不用修改。<br>&amp;emsp;&amp;emsp;2、然后再次更新系统。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">apt update</span><br><span class="line">apt upgrade -y</span><br><span class="line">apt dist-upgrade -y</span><br></pre></td></tr></table></figure><p>&amp;emsp;&amp;emsp;更新过程种会提示一些软件是否需要自动重启，选 Yes 即可，以及一些软件的配置文件是否需要更新，按照自己的情况选择即可，默认回车即视为使用旧的配置文件，一般会出现在 OpenSSH 等软件的更新上。<br>&amp;emsp;&amp;emsp;3、更新后删除不必要的软件和依赖。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt autoclean</span><br><span class="line">apt autoremove -y</span><br></pre></td></tr></table></figure><p>&amp;emsp;&amp;emsp;4、最后再次使用<code>reboot</code>命令重启系统，耐心等待后，就已经更新到了最新的 Ubuntu 22.04 Jammy 和内核了。</p><h2 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h2><p>&amp;emsp;&amp;emsp;1、<a href="https://www.banwagong.net/6203.html">《搬瓦工 Ubuntu 20.04 系统手动更新升级到 Ubuntu 22.04 失败记录》</a><br>&amp;emsp;&amp;emsp;2、<a href="https://www.bandwagonhost.net/12638.html">《Ubuntu 22.04 升级教程：从 Ubuntu 20.04 升级到 Ubuntu 22.04 方法》</a><br>&amp;emsp;&amp;emsp;3、<a href="https://u.sb/ubuntu-upgrade/">《Ubuntu 20.04 Focal 升级 Ubuntu 22.04 Jammy》</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;今天我又剁手买了台天翼云的服务器，想着准备把博客迁移到天翼云服务器上。但是在选择操作系统的时候发现没有最新的Debian11系统镜像，然后纠结了半天，选择了Ubuntu 20.04。&lt;br&gt;&amp;amp;emsp;&amp;amp;emsp;但是</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Ubuntu22.04" scheme="https://www.aicsuk.net/tags/Ubuntu22-04/"/>
+    
+    <category term="Ubuntu20.04" scheme="https://www.aicsuk.net/tags/Ubuntu20-04/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你有多久没用过纸币了</title>
+    <link href="https://www.aicsuk.net/liferecord/rmb.html"/>
+    <id>https://www.aicsuk.net/liferecord/rmb.html</id>
+    <published>2022-06-23T07:31:18.000Z</published>
+    <updated>2022-09-13T12:42:19.190Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>在现如今移动支付非常普遍的世界，你有多久没用过纸币了呢？</p></blockquote><p>&amp;emsp;&amp;emsp;今天我在朋友那见到了几张新版的人民币，第一眼感官上就觉得像是假币，颜色较上一版人民币太过于鲜艳。而且更重要的是，我自己就一两年没用现金，没想到都快不认识了。<br><img src="https://cdn.aicsuk.net/2022/06/23/62b4192d44209.jpg" alt="新版人民币" loading="lazy"></p><p>&amp;emsp;&amp;emsp;而且这套人民币还是一两年前发行的，我都没听说过，看来我还是太落伍了吧。</p><p>&amp;emsp;&amp;emsp;记得上小学的时候，当时的一元还是红色的，某天在教室里捡了张绿色的一元纸币，也是不认识以为是假币，然后给别人了，白白亏了一元钱。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;在现如今移动支付非常普遍的世界，你有多久没用过纸币了呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;今天我在朋友那见到了几张新版的人民币，第一眼感官上就觉得像是假币，颜色较上一版人民币太过于鲜艳。而且更重要的</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="人民币" scheme="https://www.aicsuk.net/tags/%E4%BA%BA%E6%B0%91%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>🏃跑步的“好处”</title>
+    <link href="https://www.aicsuk.net/liferecord/paobu.html"/>
+    <id>https://www.aicsuk.net/liferecord/paobu.html</id>
+    <published>2022-06-20T12:48:50.000Z</published>
+    <updated>2022-09-13T12:56:51.514Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>运动不如躺平</p></blockquote><p>跑步是一项我们都很熟悉的运动。对于跑步的好处，相信我们都知道一些，甚至随口都能说出来几个。</p><p>但是，我觉得跑步就没有好处！！</p><p><img src="https://cdn.aicsuk.net/2022/09/13/6320789fad81e.png?x-oss-process=1" alt="这个月跑的步" title="这个月跑的步" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/13/6320788456982.png?x-oss-process=1" alt="最近一次测速跑" title="最近一次测速跑" loading="lazy"><br>{.gallery}</p><p>我从以前跑三公里计时需要16分钟多，到现在最快不到13分钟，经常跑完步下来不是大腿疼就是膝盖疼，有时甚至小腿骨也会疼，简直就是活受罪。</p><p>真不知道那些喜欢跑步的人是怎么坚持下来的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;运动不如躺平&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;跑步是一项我们都很熟悉的运动。对于跑步的好处，相信我们都知道一些，甚至随口都能说出来几个。&lt;/p&gt;
+&lt;p&gt;但是，我觉得跑步就没有好处！！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cd</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="跑步" scheme="https://www.aicsuk.net/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>又换博客程序了</title>
+    <link href="https://www.aicsuk.net/toss/typecho.html"/>
+    <id>https://www.aicsuk.net/toss/typecho.html</id>
+    <published>2022-06-08T01:34:34.000Z</published>
+    <updated>2022-09-13T12:19:32.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;四月底的时候才把博客从wordpress换到halo，现在又换成typecho了。<br>&amp;emsp;&amp;emsp;果然是不折腾不舒服斯基。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;四月底的时候才把博客从wordpress换到halo，现在又换成typecho了。&lt;br&gt;&amp;amp;emsp;&amp;amp;emsp;果然是不折腾不舒服斯基。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>房屋装修记录</title>
+    <link href="https://www.aicsuk.net/liferecord/zhuangxiu.html"/>
+    <id>https://www.aicsuk.net/liferecord/zhuangxiu.html</id>
+    <published>2022-04-30T09:06:51.000Z</published>
+    <updated>2022-09-13T13:10:53.059Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;去年5月，我在成都龙泉驿买了一套房子，至此，在成都打拼7年，终于有了一个属于自己的落脚之地。</p><p>&amp;emsp;&amp;emsp;房子面积92.45平，总价93万左右，平均下来一平1万多块钱。贷款60万，一个月房贷3807元。</p><ul><li>2022年3月24日 与装修公司签合同，付先期30%款项32635.89元</li><li>2022年4月17日 正式开工</li><li>2022年4月23日 房屋门窗全换，18386元</li><li>2022年5月17日 缴纳契税12700元</li><li>2022年5月24日 水电完工</li><li>2022年5月30日 支付中期65%款项70712元</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;去年5月，我在成都龙泉驿买了一套房子，至此，在成都打拼7年，终于有了一个属于自己的落脚之地。&lt;/p&gt;
+&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;房子面积92.45平，总价93万左右，平均下来一平1万多块钱。贷款60万，一个月房贷3</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="装修" scheme="https://www.aicsuk.net/tags/%E8%A3%85%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>头一次遭到DDoS攻击</title>
+    <link href="https://www.aicsuk.net/toss/ddos.html"/>
+    <id>https://www.aicsuk.net/toss/ddos.html</id>
+    <published>2022-04-10T02:24:51.000Z</published>
+    <updated>2022-09-13T13:17:02.079Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;昨晚8点多，博客遭到了建站以来的第一次DDoS攻击，现在我的小博客也算是经历过大风大浪了，什么场面我没见过啊。<br><img src="https://cdn.aicsuk.net/2022/09/13/6320719714c0f.jpg?x-oss-process=1" alt="战术后仰" loading="lazy"><br>&amp;emsp;&amp;emsp;不过我也很疑惑，你来打我一个啥都没有的小博客干啥，总不可能是来练手吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;昨晚8点多，博客遭到了建站以来的第一次DDoS攻击，现在我的小博客也算是经历过大风大浪了，什么场面我没见过啊。&lt;br&gt;&lt;img src=&quot;https://cdn.aicsuk.net/2022/09/13/6320719714c0f.</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="ddos" scheme="https://www.aicsuk.net/tags/ddos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你为什么不开心</title>
+    <link href="https://www.aicsuk.net/experience/kaixin.html"/>
+    <id>https://www.aicsuk.net/experience/kaixin.html</id>
+    <published>2022-02-07T16:39:18.000Z</published>
+    <updated>2022-09-13T12:06:24.611Z</updated>
+    
+    <content type="html"><![CDATA[<p>“大过年的，你怎么一点都不开心呢？”这几天，总有人会这样问我。每次听到，我都很想反问一句，我为什么要开心？<br>是啊，我为什么要开心呢？25岁的人了，一个月拿着6000左右的死工资，要还房贷，要给父母养老，要存钱买车，等到熬出头了，自己头发估计都快白了吧。<br>想着陪父母出去旅旅游，却又挤不出时间；想着新房该装修，却又没钱……<br>人啊，小时候总想着快快长大，可长大后，却又想回到那个无忧无虑的小时候。<br>所以，我为什么要开心？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“大过年的，你怎么一点都不开心呢？”这几天，总有人会这样问我。每次听到，我都很想反问一句，我为什么要开心？&lt;br&gt;是啊，我为什么要开心呢？25岁的人了，一个月拿着6000左右的死工资，要还房贷，要给父母养老，要存钱买车，等到熬出头了，自己头发估计都快白了吧。&lt;br&gt;想着陪父</summary>
+      
+    
+    
+    
+    <category term="个人心得" scheme="https://www.aicsuk.net/categories/%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摩羯出行与联动云租车对比</title>
+    <link href="https://www.aicsuk.net/experience/duibi.html"/>
+    <id>https://www.aicsuk.net/experience/duibi.html</id>
+    <published>2022-01-09T02:31:23.000Z</published>
+    <updated>2022-09-13T11:57:46.056Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;博主最近迷上了开车，出个门去其他地方总想着开车去，可惜博主自己现在还没车，想开车就只有去租车来开了。<br>&amp;emsp;&amp;emsp;最近博主按捺不住内心的冲动，去体验了一些租车服务，总结出了一些经验。一天以上的长租，最好选择一嗨、神州等线上租车平台；一天以内短租最好选择联动云、摩羯、gofun等平台。<br>&amp;emsp;&amp;emsp;不过短租的话，成都这边车多的平台博主感觉就联动云和摩羯两家，gofun现在基本上已经看不到了。下面，博主就以自己的体验对这两家平台做一个对比。</p><h1 id="app界面"><a href="#app界面" class="headerlink" title="app界面"></a>app界面</h1><p><img src="https://cdn.aicsuk.net/2022/09/13/6320665ea854a.png?x-oss-process=1" alt="摩捷出行app" title="摩捷出行" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/13/6320665c6dce3.png?x-oss-process=1" alt="联动云app" title="联动云" loading="lazy"><br>{.gallery}</p><p>&amp;emsp;&amp;emsp;可以很明显看到，摩羯出行的app界面比联动云的界面干净简洁。</p><h1 id="车型数量和取车地点"><a href="#车型数量和取车地点" class="headerlink" title="车型数量和取车地点"></a>车型数量和取车地点</h1><p>&amp;emsp;&amp;emsp;在成都这边，联动云的车我只见过观致3、观致3S、观致5、观致5S、长安悦翔，感觉车型比较单调，取还车还都得到指定的网点取还，并且一个网点还限制了还车数量，超过这个数量就不能还车。<br>&amp;emsp;&amp;emsp;摩羯这边，有探歌、宝来、捷达VS7、ID.4、ID.6等车型，比联动云要多一些，甚至我还听别人说有高尔夫，不过我没见到过。至于取还车方面，成都三环以内和联动云一样网点取还，而三环以外就是随停随还，只要你还车的位置在还车范围内且不被交警贴罚单就行，对于我这种在龙泉驿的人来说很方便。</p><h1 id="车辆状况和卫生情况"><a href="#车辆状况和卫生情况" class="headerlink" title="车辆状况和卫生情况"></a>车辆状况和卫生情况</h1><p>&amp;emsp;&amp;emsp;联动云的车，我感觉车况好一点的就是长安悦翔，车况差的就是观致5了，碰到的好几台车都是发动机故障，至于观致3没开过就不评价了。卫生方面不用说，毕竟<del>联动云年轻人的第一台移动厕所</del>。<br>&amp;emsp;&amp;emsp;摩羯这边，我感觉车况明显要比联动云的好，毕竟摩羯的车很少有车辆内部故障的，除了人为损坏，比如擦挂、磕碰、轮胎没气等。至于卫生方面，从我用过的几次车来看，除了宝来卫生差点，其他的都还好，算比较干净。</p><h1 id="价格方面"><a href="#价格方面" class="headerlink" title="价格方面"></a>价格方面</h1><p>&amp;emsp;&amp;emsp;联动云的价格，长安悦翔、观致3、3S为0.3元&#x2F;分钟+0.9元&#x2F;公里，观致5为0.3元&#x2F;分钟+1.2元&#x2F;公里。<br>&amp;emsp;&amp;emsp;摩羯出行价格，宝来为0.29元&#x2F;分钟+0.49元&#x2F;公里，探歌、捷达VS7为0.29元&#x2F;分钟+0.99元&#x2F;小时，ID.4为0.29元&#x2F;分钟+1.29元&#x2F;公里，ID.6为0.49元&#x2F;分钟+1.29&#x2F;元公里。另外摩羯时租还有起步价格。</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a><em>总结</em></h1><p>&amp;emsp;&amp;emsp;根据我几个月来的租车经验，我觉得，你如果在三环以内，两者随你选择。在三环以外最好用摩羯，毕竟随停随还。<br>&amp;emsp;&amp;emsp;喜欢电车的可以用摩羯，油车随便哪个平台都可以。不过有一点要记住，联动云允许用户自己加油，而摩羯不允许。<br>&amp;emsp;&amp;emsp;想去成都周边，特别是西边阿坝那边，就只能用联动云，摩羯不允许车辆进入甘孜阿坝那边。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;博主最近迷上了开车，出个门去其他地方总想着开车去，可惜博主自己现在还没车，想开车就只有去租车来开了。&lt;br&gt;&amp;amp;emsp;&amp;amp;emsp;最近博主按捺不住内心的冲动，去体验了一些租车服务，总结出了一些经验。一天以上的长租，最</summary>
+      
+    
+    
+    
+    <category term="个人心得" scheme="https://www.aicsuk.net/categories/%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/"/>
+    
+    
+    <category term="摩捷出行" scheme="https://www.aicsuk.net/tags/%E6%91%A9%E6%8D%B7%E5%87%BA%E8%A1%8C/"/>
+    
+    <category term="联动云" scheme="https://www.aicsuk.net/tags/%E8%81%94%E5%8A%A8%E4%BA%91/"/>
+    
+    <category term="租车" scheme="https://www.aicsuk.net/tags/%E7%A7%9F%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022年新博客第一篇文暨个人2021年总结</title>
+    <link href="https://www.aicsuk.net/liferecord/21zongjie.html"/>
+    <id>https://www.aicsuk.net/liferecord/21zongjie.html</id>
+    <published>2022-01-02T14:12:04.000Z</published>
+    <updated>2022-09-13T10:55:41.895Z</updated>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;今天2022年第二天，本来昨天就想发的，结果因为懒癌晚期拖到了现在。</p><p>&amp;emsp;&amp;emsp;为什么是新博客，因为这个博客算起来是19年4月建的，从最开始的阿里云轻量香港到微软azure香港，期间搬过多次服务器，2020年初直接给域名备了案，固定在腾讯云重庆。刚建博客的时候天天想着上来看看，到后来热情过了，同时也因为工作原因很少打理博客。</p><p>&amp;emsp;&amp;emsp;一直到2021年9月份，腾讯云检查备案，我因为工作原因没有及时整改，导致备案主体被注销；然后10月份的时候我的aicsuk.com域名到期没及时续费，所以之前的博客就算是没了，虽然原博客数据还在。本来想着等过了域名赎回期再注册回来，结果等了两个月，域名赎回期过了还不能注册，干脆就用回aicsuk.moe域名重建博客了。</p><p>&amp;emsp;&amp;emsp;这一年来，感觉自己也就平平淡淡的过来了。给自己买了套房子，在成都也算是有了个落脚之地。一年下来，存款也没有多少，明年能不能存够装修的钱也还不知道。</p><p>&amp;emsp;&amp;emsp;上半年被单位派出去学习，回来也还是那样；下半年也就那样日复一日的上班下班，领着一成不变的工资，干着不喜欢的工作，算是为了活着吧。</p><p>&amp;emsp;&amp;emsp;这一年唯一能让自己感到高兴的事，应该是引体向上不摆杠硬拉能拉十几个了吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;今天2022年第二天，本来昨天就想发的，结果因为懒癌晚期拖到了现在。&lt;/p&gt;
+&lt;p&gt;&amp;amp;emsp;&amp;amp;emsp;为什么是新博客，因为这个博客算起来是19年4月建的，从最开始的阿里云轻量香港到微软azure香港，期间搬过多次</summary>
+      
+    
+    
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="总结" scheme="https://www.aicsuk.net/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.aicsuk.net/toss/hello-world.html"/>
+    <id>https://www.aicsuk.net/toss/hello-world.html</id>
+    <published>2021-12-24T02:49:33.000Z</published>
+    <updated>2022-09-13T10:32:59.368Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+</feed>
