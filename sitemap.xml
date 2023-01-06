@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.aicsuk.net/experience/duibi/</loc>
+    
+    <lastmod>2023-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aicsuk.net/liferecord/paobu/</loc>
     
     <lastmod>2023-01-06</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://www.aicsuk.net/liferecord/2022zongjie/</loc>
-    
-    <lastmod>2023-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/experience/duibi/</loc>
     
     <lastmod>2023-01-06</lastmod>
     
@@ -252,28 +252,28 @@
   </url>
   
   <url>
+    <loc>https://www.aicsuk.net/tags/%E6%91%A9%E6%8D%B7%E5%87%BA%E8%A1%8C/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/%E8%81%94%E5%8A%A8%E4%BA%91/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/%E7%A7%9F%E8%BD%A6/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aicsuk.net/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/%E6%88%90%E9%83%BD/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/%E8%90%BD%E6%88%B7/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/%E7%96%AB%E6%83%85/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,7 +301,21 @@
   </url>
   
   <url>
-    <loc>https://www.aicsuk.net/tags/%E8%B7%91%E6%AD%A5/</loc>
+    <loc>https://www.aicsuk.net/tags/%E6%88%90%E9%83%BD/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/%E8%90%BD%E6%88%B7/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/%E7%96%AB%E6%83%85/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -315,7 +329,7 @@
   </url>
   
   <url>
-    <loc>https://www.aicsuk.net/tags/Hexo/</loc>
+    <loc>https://www.aicsuk.net/tags/%E8%B7%91%E6%AD%A5/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -336,35 +350,7 @@
   </url>
   
   <url>
-    <loc>https://www.aicsuk.net/tags/%E6%91%A9%E6%8D%B7%E5%87%BA%E8%A1%8C/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/%E8%81%94%E5%8A%A8%E4%BA%91/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/%E7%A7%9F%E8%BD%A6/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/hexo/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/tags/Typecho/</loc>
+    <loc>https://www.aicsuk.net/tags/Hexo/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -379,6 +365,20 @@
   
   <url>
     <loc>https://www.aicsuk.net/tags/Ubuntu20-04/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/hexo/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aicsuk.net/tags/Typecho/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -422,6 +422,13 @@
   </url>
   
   <url>
+    <loc>https://www.aicsuk.net/categories/%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -430,13 +437,6 @@
   
   <url>
     <loc>https://www.aicsuk.net/categories/%E8%BD%AC%E8%BD%BD%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2023-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aicsuk.net/categories/%E4%B8%AA%E4%BA%BA%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
