@@ -46,26 +46,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
   </entry>
   <entry>
-    <title>Hexo博客神器——Hexo便携版</title>
-    <url>/reprint/hexobianxie.html</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博主最近买了台新电脑，原来装好Hexo环境的老电脑目前就没怎么用，又懒得重新换电脑部署，想着看看能不能实现两台电脑同步部署。结果研究了很久，发现网上的多端部署教程都选择将Hexo备份至Github仓库。因为我博客是部署在华为云服务器上的，感觉再备份至Github仓库的话会很麻烦，所有突发奇想看看能不能实现便携式Hexo。</p>
-<p>终于，我找到了这款Hexo懒人包，里面包含了Node.js便携版和Git便携版，理论上任何Windows系统的电脑都能直接使用，免去了新电脑Node.js和Git的安装和配置。</p>
-<h2 id="懒人包简介"><a href="#懒人包简介" class="headerlink" title="懒人包简介"></a>懒人包简介</h2><p><img src="https://cdn.aicsuk.net/2022/11/24/637f011a7eb45.png?x-oss-process=1" alt="PortableHexo" loading="lazy"></p>
-<p>其中，hexo文件夹是博客源文件所在文件夹，可直接将已有博客文件全部复制到此文件夹内，也可重新安装Hexo。home文件夹和support文件夹不用管。</p>
-<p>其余批处理文件顾名思义，如果是重新安装的Hexo博客，需要执行一下配置Github部署和配置基本信息，如果是原有博客文件复制过来的就不用执行。</p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>懒人包配置好后，可将懒人包放在U盘里，直接在U盘写作部署；也可以将懒人包压缩后放到网盘里。</p>
-<p>以后不管在哪、用哪台电脑，只要U盘在，就能随时随地写东西了。🤣</p>
-<p>这篇文章就是在新电脑上用U盘写的。</p>
-<p>懒人包地址：<a href="https://www.bilibili.com/read/cv15172764/">Hexo懒人包5.0版本</a> ｜ <a href="https://pan.baidu.com/s/17zYeBuwm_2shHi527Ugbvw">百度网盘（提取码3n1b）</a></p>
-]]></content>
-      <categories>
-        <category>转载分享</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>愿此去前路皆坦途——2022年终总结</title>
     <url>/liferecord/2022zongjie.html</url>
     <content><![CDATA[<p>这算是我第二次在博客上写年终总结。</p>
@@ -143,6 +123,25 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </categories>
       <tags>
         <tag>疫情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>🏃跑步的“好处”</title>
+    <url>/liferecord/paobu.html</url>
+    <content><![CDATA[<blockquote>
+<p>运动不如躺平</p>
+</blockquote>
+<p>跑步是一项我们都很熟悉的运动。对于跑步的好处，相信我们都知道一些，甚至随口都能说出来几个。</p>
+<p>但是，我觉得跑步就没有好处！！</p>
+<p><img src="https://cdn.aicsuk.net/2022/09/13/6320789fad81e.png?x-oss-process=1" alt="这个月跑的步" title="这个月跑的步" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/13/6320788456982.png?x-oss-process=1" alt="最近一次测速跑" title="最近一次测速跑" loading="lazy"><br>{.gallery}</p>
+<p>我从以前跑三公里计时需要16分钟多，到现在最快不到13分钟，经常跑完步下来不是大腿疼就是膝盖疼，有时甚至小腿骨也会疼，简直就是活受罪。</p>
+<p>真不知道那些喜欢跑步的人是怎么坚持下来的。</p>
+]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>跑步</tag>
       </tags>
   </entry>
   <entry>
@@ -224,22 +223,23 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
-    <title>🏃跑步的“好处”</title>
-    <url>/liferecord/paobu.html</url>
-    <content><![CDATA[<blockquote>
-<p>运动不如躺平</p>
-</blockquote>
-<p>跑步是一项我们都很熟悉的运动。对于跑步的好处，相信我们都知道一些，甚至随口都能说出来几个。</p>
-<p>但是，我觉得跑步就没有好处！！</p>
-<p><img src="https://cdn.aicsuk.net/2022/09/13/6320789fad81e.png?x-oss-process=1" alt="这个月跑的步" title="这个月跑的步" loading="lazy"><br><img src="https://cdn.aicsuk.net/2022/09/13/6320788456982.png?x-oss-process=1" alt="最近一次测速跑" title="最近一次测速跑" loading="lazy"><br>{.gallery}</p>
-<p>我从以前跑三公里计时需要16分钟多，到现在最快不到13分钟，经常跑完步下来不是大腿疼就是膝盖疼，有时甚至小腿骨也会疼，简直就是活受罪。</p>
-<p>真不知道那些喜欢跑步的人是怎么坚持下来的。</p>
+    <title>Hexo博客神器——Hexo便携版</title>
+    <url>/reprint/hexobianxie.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博主最近买了台新电脑，原来装好Hexo环境的老电脑目前就没怎么用，又懒得重新换电脑部署，想着看看能不能实现两台电脑同步部署。结果研究了很久，发现网上的多端部署教程都选择将Hexo备份至Github仓库。因为我博客是部署在华为云服务器上的，感觉再备份至Github仓库的话会很麻烦，所有突发奇想看看能不能实现便携式Hexo。</p>
+<p>终于，我找到了这款Hexo懒人包，里面包含了Node.js便携版和Git便携版，理论上任何Windows系统的电脑都能直接使用，免去了新电脑Node.js和Git的安装和配置。</p>
+<h2 id="懒人包简介"><a href="#懒人包简介" class="headerlink" title="懒人包简介"></a>懒人包简介</h2><p><img src="https://cdn.aicsuk.net/2022/11/24/637f011a7eb45.png?x-oss-process=1" alt="PortableHexo" loading="lazy"></p>
+<p>其中，hexo文件夹是博客源文件所在文件夹，可直接将已有博客文件全部复制到此文件夹内，也可重新安装Hexo。home文件夹和support文件夹不用管。</p>
+<p>其余批处理文件顾名思义，如果是重新安装的Hexo博客，需要执行一下配置Github部署和配置基本信息，如果是原有博客文件复制过来的就不用执行。</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>懒人包配置好后，可将懒人包放在U盘里，直接在U盘写作部署；也可以将懒人包压缩后放到网盘里。</p>
+<p>以后不管在哪、用哪台电脑，只要U盘在，就能随时随地写东西了。🤣</p>
+<p>这篇文章就是在新电脑上用U盘写的。</p>
+<p>懒人包地址：<a href="https://www.bilibili.com/read/cv15172764/">Hexo懒人包5.0版本</a> ｜ <a href="https://pan.baidu.com/s/17zYeBuwm_2shHi527Ugbvw">百度网盘（提取码3n1b）</a></p>
 ]]></content>
       <categories>
-        <category>生活记录</category>
+        <category>转载分享</category>
       </categories>
       <tags>
-        <tag>跑步</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -358,6 +358,18 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>头一次遭到DDoS攻击</title>
+    <url>/toss/ddos.html</url>
+    <content><![CDATA[<p>&amp;emsp;&amp;emsp;昨晚8点多，博客遭到了建站以来的第一次DDoS攻击，现在我的小博客也算是经历过大风大浪了，什么场面我没见过啊。<br><img src="https://cdn.aicsuk.net/2022/09/13/6320719714c0f.jpg?x-oss-process=1" alt="战术后仰" loading="lazy"><br>&amp;emsp;&amp;emsp;不过我也很疑惑，你来打我一个啥都没有的小博客干啥，总不可能是来练手吧。</p>
+]]></content>
+      <categories>
+        <category>折腾学习</category>
+      </categories>
+      <tags>
+        <tag>ddos</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/toss/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -377,18 +389,6 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       <categories>
         <category>折腾学习</category>
       </categories>
-  </entry>
-  <entry>
-    <title>头一次遭到DDoS攻击</title>
-    <url>/toss/ddos.html</url>
-    <content><![CDATA[<p>&amp;emsp;&amp;emsp;昨晚8点多，博客遭到了建站以来的第一次DDoS攻击，现在我的小博客也算是经历过大风大浪了，什么场面我没见过啊。<br><img src="https://cdn.aicsuk.net/2022/09/13/6320719714c0f.jpg?x-oss-process=1" alt="战术后仰" loading="lazy"><br>&amp;emsp;&amp;emsp;不过我也很疑惑，你来打我一个啥都没有的小博客干啥，总不可能是来练手吧。</p>
-]]></content>
-      <categories>
-        <category>折腾学习</category>
-      </categories>
-      <tags>
-        <tag>ddos</tag>
-      </tags>
   </entry>
   <entry>
     <title>Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</title>
@@ -449,6 +449,15 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       </tags>
   </entry>
   <entry>
+    <title>又换博客程序了</title>
+    <url>/toss/typecho.html</url>
+    <content><![CDATA[<p>&amp;emsp;&amp;emsp;四月底的时候才把博客从wordpress换到halo，现在又换成typecho了。<br>&amp;emsp;&amp;emsp;果然是不折腾不舒服斯基。</p>
+]]></content>
+      <categories>
+        <category>折腾学习</category>
+      </categories>
+  </entry>
+  <entry>
     <title>忍不住又在服务器上花钱了</title>
     <url>/toss/server-1.html</url>
     <content><![CDATA[<p>&amp;emsp;&amp;emsp;最近这个月沉迷服务器无法自拔，先买了华为云的云服务器，然后又买了天翼云的云服务器，博客也从之前的腾讯云香港搬到了华为云。<br>&amp;emsp;&amp;emsp;本来现在天翼云的服务器还在备案，想着等备案下来之后再把博客搬到天翼云的，结果现在又变卦了，买了台镇江的物理服务器，过几天应该会把博客搬到镇江的服务器上。<br>&amp;emsp;&amp;emsp;这个月买服务器都花了接近2000块钱了。<br>&amp;emsp;&amp;emsp;这台镇江的独服配置是我有史以来用过的配置最高的服务器，16核处理器、32G内存、512G硬盘、50M宽带，是我以前最开始接触建站时想都不敢想的配置 。</p>
@@ -461,14 +470,5 @@ height: 100%; left: 0; top: 0;"> </iframe></div>
       <tags>
         <tag>服务器</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>又换博客程序了</title>
-    <url>/toss/typecho.html</url>
-    <content><![CDATA[<p>&amp;emsp;&amp;emsp;四月底的时候才把博客从wordpress换到halo，现在又换成typecho了。<br>&amp;emsp;&amp;emsp;果然是不折腾不舒服斯基。</p>
-]]></content>
-      <categories>
-        <category>折腾学习</category>
-      </categories>
   </entry>
 </search>
