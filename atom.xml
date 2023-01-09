@@ -6,7 +6,7 @@
   <link href="https://www.aicsuk.net/atom.xml" rel="self"/>
   
   <link href="https://www.aicsuk.net/"/>
-  <updated>2023-01-07T15:00:11.806Z</updated>
+  <updated>2023-01-09T05:17:51.692Z</updated>
   <id>https://www.aicsuk.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.aicsuk.net/liferecord/wmcty/"/>
     <id>https://www.aicsuk.net/liferecord/wmcty/</id>
     <published>2023-01-07T13:54:11.000Z</published>
-    <updated>2023-01-07T15:00:11.806Z</updated>
+    <updated>2023-01-09T05:17:51.692Z</updated>
     
     <content type="html"><![CDATA[<div class="fj-gallery no-fancybox">    <p><img src="https://cdn.aicsuk.net/2023/01/07/63b986f4aec5e.jpg" alt="第一页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b98751b0cc4.jpg" alt="第二页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b98764f262f.jpg" alt="第三页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b98773591f7.jpg" alt="第四页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b9879024842.jpg" alt="第五页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b9879fb387e.jpg" alt="第六页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b987af148af.jpg" alt="第七页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b987bd1503d.jpg" alt="第八页" loading="lazy"></p><p><img src="https://cdn.aicsuk.net/2023/01/07/63b987cb6b368.jpg" alt="第九页" loading="lazy"></p></div><p>在家闲着也是闲着，还不如出来跑个外卖挣点外快，运气好还能加个餐🤣</p><p>到现在已经跑了快十天了，就下午和晚上跑一会，差不多也跑了个小一千，至少油钱是跑回来了。</p>]]></content>
     
@@ -34,6 +34,8 @@
       
     
     
+    
+    <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
     
     
     <category term="美团" scheme="https://www.aicsuk.net/tags/%E7%BE%8E%E5%9B%A2/"/>
