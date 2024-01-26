@@ -1,0 +1,3 @@
+var posts=["atlas/ldzzg/","experience/duibi/","experience/kaixin/","liferecord/2022zongjie/","liferecord/2023zj/","liferecord/21zongjie/","liferecord/81jianjun/","liferecord/chengduren/","liferecord/hjuhr150/","liferecord/jinkuang/","liferecord/jujia/","liferecord/paobu/","liferecord/rmb/","liferecord/tui/","liferecord/wmcty/","liferecord/xinpckaixiang/","liferecord/zhuangxiu/","reprint/hexobianxie/","toss/Ubuntu22-04/","toss/bkzt/","toss/ddos/","toss/hello-world/","toss/hexonote-1/","toss/hexotovirtualhost/","toss/linuxgame/","toss/server-1/","toss/typecho/"];function toRandomPost(){
+    pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
+  };
