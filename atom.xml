@@ -1,0 +1,664 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.aicsuk.net</id>
+    <title>Aicsuk</title>
+    <subtitle>一个小小的博客</subtitle>
+    <icon>https://www.aicsuk.net/assets/favicon.ico</icon>
+    <link href="https://www.aicsuk.net" />
+    <author>
+      <name>Aicsuk</name>
+    </author>
+    <updated>2025-05-24T06:29:23.539Z</updated>
+    <category term="生活，博客，日记，音乐" />
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/Kingisepp-trekking/</id>
+        <title>游览金吉谢普</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/Kingisepp-trekking/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;金吉谢普&lt;/strong&gt; （俄语：Ки́нгисепп，罗马化：Kingisepp）是俄罗斯列宁格勒州的城市，位于卢加河畔。2002 年人口 50,295 人。1384 年首见于文献，1583 年归瑞典，1703 年归沙俄。1922 年以爱沙尼亚共产党人 &lt;strong&gt;维克托・金吉谢普&lt;/strong&gt; 命名。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css&#34;&gt;&lt;script data-pjax src=&#34;//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js&#34;&gt;&lt;/script&gt;&lt;script data-pjax src=&#34;//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js&#34;&gt;&lt;/script&gt;&lt;div id=&#34;googleMap-28.59710434256229-59.373784663030676&#34; style=&#34;max-width:1; height:360px;display: block;margin:0 auto;z-index:1;border-radius: 5px;&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34;&gt;var normalMap=L.tileLayer.chinaProvider(&#39;Google.Normal.Map&#39;,{maxZoom:22,minZoom:1,attribution:&#39;Google Maps&#39;}),satelliteMap=L.tileLayer.chinaProvider(&#39;Google.Satellite.Map&#39;,{maxZoom:22,minZoom:1,attribution:&#39;Google Maps&#39;}),routeMap=L.tileLayer.chinaProvider(&#39;Google.Satellite.Annotion&#39;,{maxZoom:22,minZoom:1,attribution:&#39;Google Maps&#39;});var baseLayers={&#34;谷歌地图&#34;:normalMap,&#34;谷歌卫星图&#34;:satelliteMap,&#34;谷歌卫星标注&#34;: routeMap};var overlayLayers={};var mymap=L.map(&#34;googleMap-28.59710434256229-59.373784663030676&#34;,{center:[59.373784663030676,28.59710434256229],zoom:10,layers:[normalMap],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:&#39;放大&#39;,zoomOutTitle:&#39;缩小&#39;}).addTo(mymap);var marker = L.marker([&#39;59.373784663030676&#39;,&#39;28.59710434256229&#39;]).addTo(mymap);marker.bindPopup(&#34;俄罗斯列宁格勒州金吉谢普区&#34;).openPopup();&lt;/script&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;上方为嵌入式地图，如果你发现上方为大片空白，请重新刷新一下页面。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;博主最近被调到俄罗斯的第二大城市 —— 圣彼得堡附近工作了，说是附近，其实离圣彼得堡也有个小 200 公里的路程，在波罗的海旁，三国交界处。附近一片全是森林，实在是没有娱乐的地方。&lt;/p&gt;
+&lt;p&gt;今天周六，难得有空闲时间，决定前往距离最近的城市，六七十公里外的金吉谢普逛逛。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524235937.jpg&#34; alt=&#34;&#34; title=&#34;金吉谢普区荣誉墙&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;整个金吉谢普，给我的第一印象就是人太少了，除了商场人多一点，街上根本就多少人，但停在路边的车子却很多，就很奇怪。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/mmexport1748106465062.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/1000000931.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/1000000935.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/mmexport1748115116667.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;城中心估计是由于建成时间比较早，整体建筑风格类似于苏联式建筑风格，城市外围也有部分现代化楼房。&lt;/p&gt;
+&lt;p&gt;城市里随处可见各种雕像、纪念碑，镌刻着这座城市发展历程中不可磨灭的记忆。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524230249.jpg?x-oss-process=style/1&#34; alt=&#34;&#34; title=&#34;切尔诺贝利核电站事故纪念碑&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524232024.jpg?x-oss-process=style/1&#34; alt=&#34;&#34; title=&#34;献给为祖国而战的苏联士兵&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524232412.jpg?x-oss-process=style/1&#34; alt=&#34;&#34; title=&#34;献给在卫国战争中牺牲的游击队员&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;沿着街道往前走，便来到凯瑟琳大教堂。凯瑟琳大教堂是金吉谢普主要的东正教教堂，建于 18 世纪下半叶，它以亚历山大烈士凯瑟琳的名字命名。&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524234010.jpg?x-oss-process=style/1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;继续往前走，就到了卢加河边。不知道是由于污染还是什么原因，整个河水都是黑色，博主还是第一次看到黑色的河🤣。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524234617.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250524234811.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;由于时间有限，博主只在城里逛了一两个小时，没能逛完这座小城，希望以后有机会再来逛一逛吧。最后看一下俄罗斯这边的油价。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/05/20250525000202.jpg?x-oss-process=style/1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;按照 5 月 24 日的汇率，92 号 5.21，95 号 5.65，98 号 7.96，柴油 6.44，这价格是真的便宜。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="俄罗斯" scheme="https://www.aicsuk.net/tags/%E4%BF%84%E7%BD%97%E6%96%AF/" />
+        <category term="旅游" scheme="https://www.aicsuk.net/tags/%E6%97%85%E6%B8%B8/" />
+        <updated>2025-05-24T06:29:23.539Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/qexobkjg/</id>
+        <title>博客现状</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/qexobkjg/"/>
+        <content type="html">&lt;p&gt;  许久没有整理博客了，主要也是去年电脑重置后，电脑上的 Hexo 本地文件没有保存，又懒得重新配置本地环境，就一直摸鱼到现在。这个月心血来潮重新整理了一下，更换了新主题，同时也使用 &lt;a href=&#34;https://www.oplog.cn/qexo/&#34;&gt;Qexo 静态博客编辑器&lt;/a&gt; 将本地管理的方式全部搬到云端在线管理，这样也能随时随地发布文章，比本地发布方便多了。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/03/QQ20250325-103725.png&#34; alt=&#34;Qexo主页&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/03/QQ20250325-103655.png&#34; alt=&#34;Qexo写文章&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;  现在博客源码保存在 GitHub 私有仓库，博客配置什么的可以在 GitHub 上面直接修改，也可以在 Qexo 上面修改。发布文章或者修改配置之后，通过 GitHub Actions 自动化部署到 &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt; 和 &lt;a href=&#34;https://cloud.tencent.com/&#34;&gt;腾讯云 COS&lt;/a&gt;，同时 &lt;a href=&#34;https://pages.cloudflare.com/&#34;&gt;Cloudflare Pages&lt;/a&gt; 会自动拉取 GitHub 仓库，构建并完成部署。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/04/bokejg31.png&#34; alt=&#34;博客结构图&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;  因为博主在国外，所以才将博客分别部署到 Cloudflare Pages 和 腾讯云 COS，实现国内外访问分流，这样加载速度应该是很快的，网站测速都是全绿。&lt;s&gt;另外由于分流访问后，每次发布文章、修改配置什么的 Cloudflare Pages 重新部署需要等十多分钟才能生效，所以 GitHub Pages 部署的站点就专门用作预览测试网站了。&lt;/s&gt; Cloudflare Pages 构建变量的问题，重新设置构建变量后，现在部署时间不会超过 1 分钟。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/03/QQ20250325-113248.png&#34; alt=&#34;网站测速&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;  这样部署连服务器都省了，每年只需要域名续费的钱和腾讯云 COS、CDN 资源包的钱，合计不到 200 元，还是很划算的。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="Qexo" scheme="https://www.aicsuk.net/tags/Qexo/" />
+        <category term="GitHub" scheme="https://www.aicsuk.net/tags/GitHub/" />
+        <updated>2025-03-24T23:15:29.298Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/aicsukworld/</id>
+        <title>注册了一个新域名</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/aicsukworld/"/>
+        <content type="html">&lt;p&gt;已经有一年多没打理过博客了，最近突发奇想，准备好好整一整，这次打理完博客之后，下一次又不知道是多久了。&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/images/2025/03/d4b3953f-ba73-4762-be8f-2c824cc08ee5.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+趁着这次心血来潮，注册了一个新域名 aicsuk.world，正好对应我的小站标题。第一年注册只需要 14 块 5，第二年以后续费就需要 227 块钱了。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="域名" scheme="https://www.aicsuk.net/tags/%E5%9F%9F%E5%90%8D/" />
+        <updated>2025-03-21T11:51:12.899Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/linuxgame/</id>
+        <title>Linux系统运行剑网三</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/linuxgame/"/>
+        <content type="html">&lt;p&gt;
+&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-bottom: 75%;&#34;&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=325769183&amp;bvid=BV1tw41137WC&amp;cid=1395361129&amp;p=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;position: absolute; width: 100%; height: 90%; left: 0; top: 0;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h3&gt;
+&lt;p&gt;最近 Windows 系统有些审美疲劳，然后在 B 站上刷到了日常使用 Linux 系统的视频，看着还不错，就想着自己来试试。&lt;/p&gt;
+&lt;p&gt;但我就是一个臭打游戏的，换新系统的第一件事肯定是看看能不能运行自己玩的剑网三。正好，在剑三魔盒上看到了《&lt;a href=&#34;https://origin.jx3box.com/tool/39093&#34;&gt;关于在 Wine (SteamDeck) 下运行剑网 3 的可行性与实现方法&lt;/a&gt;》这篇文章，整体思路就是：安装 wine→安装剑三并设置跳过显卡检测→成功运行。&lt;/p&gt;
+&lt;p&gt;目前，我只在 Deepin20.9 和 Archlinux 上成功运行了剑网三，所以我会把两种系统运行剑三的流程都写出来。（&lt;s&gt;据说 Deepin 就是统信 Uos 的社区版，所以我猜测统信 Uos 应该也能运行&lt;/s&gt;）&lt;/p&gt;
+&lt;h3 id=&#34;前提条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前提条件&#34;&gt;#&lt;/a&gt; 前提条件&lt;/h3&gt;
+&lt;p&gt;一台正常安装了 Deepin20.9 或者 Archlinux 的物理机。&lt;/p&gt;
+&lt;p&gt;如果安装的话，可以看看下面的安装教程：&lt;/p&gt;
+&lt;p&gt;1、&lt;a href=&#34;https://www.deepin.org/zh/installation/&#34;&gt;Deepin20.9 系统安装教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2、&lt;a href=&#34;https://arch.icekylin.online/&#34;&gt;Archlinux 系统安装教程&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装wine&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装wine&#34;&gt;#&lt;/a&gt; 安装 Wine&lt;/h3&gt;
+&lt;p&gt;Wine 是类 UNIX 系统下运行 Windows 程序的 “兼容层”，是正在持续开发中的自由软件。在 Wine 中运行的 Windows 程序，就如同运行原生 Linux 程序一样，不会有模拟器那样的严重性能问题。&lt;/p&gt;
+&lt;h4 id=&#34;1-archlinux系统安装wine以及其它相关依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-archlinux系统安装wine以及其它相关依赖&#34;&gt;#&lt;/a&gt; 1、Archlinux 系统安装 Wine 以及其它相关依赖：&lt;/h4&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sudo pacman -S wine wine-mono wine_gecko wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;全部复制进终端，然后回车即可&lt;/p&gt;
+&lt;h4 id=&#34;2-deepin209系统安装wine&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-deepin209系统安装wine&#34;&gt;#&lt;/a&gt; 2、Deepin20.9 系统安装 Wine&lt;/h4&gt;
+&lt;p&gt;应用商店下载安装 “Wine 运行器”，然后点击左上角 “程序”→“添加 Wine 运行器源以及安装较新版本的 WineHQ”，然后在弹出的终端里按照指示操作即可。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_deepin-wine-runner_20240106164338.png&#34; alt=&#34;Wine运行器&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装wine游戏助手&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装wine游戏助手&#34;&gt;#&lt;/a&gt; 安装 Wine 游戏助手&lt;/h3&gt;
+&lt;p&gt;点此直接下载&lt;a href=&#34;https://winegame.net/downloads/&#34;&gt; wine 游戏助手&lt;/a&gt;，里面有 Deepin 版和 Archlinux 版本，按需下载安装，后续游戏的运行都是通过它来实现。&lt;/p&gt;
+&lt;h3 id=&#34;安装剑网三&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装剑网三&#34;&gt;#&lt;/a&gt; 安装剑网三&lt;/h3&gt;
+&lt;p&gt;Windows 系统怎么下载安装，在 Linux 上同样怎么下载安装，不过在官网下载的剑三安装器，Archlinux 系统因为安装了 wine 可以直接双击打开，而 Deepin 系统需要通过 &lt;code&gt;Wine游戏助手&lt;/code&gt; 或者 &lt;code&gt;Wine运行器&lt;/code&gt; 打开。&lt;/p&gt;
+&lt;p&gt;或者从其他地方复制完整的剑三客户端过来也可以。&lt;/p&gt;
+&lt;h3 id=&#34;运行剑网三&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#运行剑网三&#34;&gt;#&lt;/a&gt; 运行剑网三&lt;/h3&gt;
+&lt;p&gt;这一步，Archlinux 系统和 Deepin 系统基本上步骤都是一样的。&lt;/p&gt;
+&lt;h4 id=&#34;1-wine游戏助手手动添加剑网三&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-wine游戏助手手动添加剑网三&#34;&gt;#&lt;/a&gt; 1、“Wine 游戏助手” 手动添加剑网三&lt;/h4&gt;
+&lt;p&gt;打开 &lt;code&gt;Wine游戏助手&lt;/code&gt; ，首先设置一下 wine 环境，点击左下角运行环境里 Wine 旁边的圆形齿轮。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/image-20240106175320362.png&#34; alt=&#34;点击齿轮&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;右上角开启 &lt;code&gt;高级选项&lt;/code&gt; ，然后 Wine 版本设置为 &lt;code&gt;系统自带的wine版本&lt;/code&gt; ，DXVK 版本选择 &lt;code&gt;v2.3-vulkan1.3&lt;/code&gt; ，VKD3D 版本选择 &lt;code&gt;v2.10-vulkan1.3&lt;/code&gt; ，然后点击右上角 &lt;code&gt;保存&lt;/code&gt; 。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_lutris_20240106164750.png&#34; alt=&#34;wine配置&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;回到 &lt;code&gt;Wine游戏助手&lt;/code&gt; 页面，点击左上角 &lt;code&gt;+&lt;/code&gt;  号，选择 &lt;code&gt;手动配置游戏运行环境&lt;/code&gt; 。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_lutris_20240106164812.png&#34; alt=&#34;手动运行&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;游戏信息，名称自己设置，我这里填写为 “剑网三”，运行环境选择 &lt;code&gt;Wine(运行Windows游戏)&lt;/code&gt; 。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_lutris_20240106164837.png&#34; alt=&#34;游戏信息&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;游戏选项，主程序设置为 &lt;code&gt;剑网三启动器位置&lt;/code&gt; ，也就是”SeasunGame.exe“程序位置，然后点击右上角保存。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_lutris_20240106164902.png&#34; alt=&#34;启动目录&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-修改剑网三设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-修改剑网三设置&#34;&gt;#&lt;/a&gt; 2、修改剑网三设置&lt;/h4&gt;
+&lt;p&gt;打开客户端工作路径（~\SeasunGame\Game\JX3\bin\zhcn_hd）下的 &lt;code&gt;config.ini&lt;/code&gt; ，给 &lt;code&gt;[Debug]&lt;/code&gt;  这段里面加一行： &lt;code&gt;SkipVideoCardScoreUpdate=1&lt;/code&gt; &lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_deepin-editor_20240106170058.png&#34; alt=&#34;设置剑网三&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;3-启动剑网三&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-启动剑网三&#34;&gt;#&lt;/a&gt; 3、启动剑网三&lt;/h4&gt;
+&lt;p&gt;这个时候回到 &lt;code&gt;Wine游戏助手&lt;/code&gt; 页面，选择刚刚添加的剑网三，点击启动，会弹窗提示更新 Wine 配置和安装 Wine-Mono 组件，等待自动安装完成即可。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240106165029.png&#34; alt=&#34;wine配置&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;4-快乐游戏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-快乐游戏&#34;&gt;#&lt;/a&gt; 4、快乐游戏&lt;/h4&gt;
+&lt;p&gt;一切就绪后会像 Windows 一样正常运行剑三，以后每次玩游戏都需要通过 &lt;code&gt;Wine游戏助手&lt;/code&gt; 启动运行。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/image-20240106181332488.png&#34; alt=&#34;剑三启动器&#34; /&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/234462_3233557.png&#34; alt=&#34;Archlinux&#34; /&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/image-20240106181502401.png&#34; alt=&#34;Deepin20.9&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;后记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h3&gt;
+&lt;h4 id=&#34;1-游戏加速器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-游戏加速器&#34;&gt;#&lt;/a&gt; 1、游戏加速器&lt;/h4&gt;
+&lt;p&gt;由于我在国外，玩剑三需要游戏加速器，而 Linux 上的根本就没有能&lt;strong&gt;在国外加速国内网游&lt;/strong&gt;的游戏加速器，所以也只能通过一些特别的办法来实现加速效果。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hu60.cn/q.php/bbs.topic.95932.html&#34;&gt;在 Linux 中通过虚拟机使用 Windows 版网游加速器&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-deepin209系统卡在登录过图界面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-deepin209系统卡在登录过图界面&#34;&gt;#&lt;/a&gt; 2、Deepin20.9 系统卡在登录过图界面&lt;/h4&gt;
+&lt;p&gt;因为我是直接从 Windows 系统上将剑三客户端复制过来的，在 Deepin20.9 系统上运行会出现卡在过图界面的情况，这种时候只需要将 “~\SeasunGame\Game\JX3\bin\zhcn_hd 目录” 下的 &lt;code&gt;interface&lt;/code&gt;  和 &lt;code&gt;userdata&lt;/code&gt;  文件夹删掉就能正常进入游戏了。&lt;/p&gt;
+&lt;p&gt;Archlinux 系统就不会这样。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="剑网三" scheme="https://www.aicsuk.net/tags/%E5%89%91%E7%BD%91%E4%B8%89/" />
+        <category term="Linux" scheme="https://www.aicsuk.net/tags/Linux/" />
+        <category term="Deepin" scheme="https://www.aicsuk.net/tags/Deepin/" />
+        <category term="Archlinux" scheme="https://www.aicsuk.net/tags/Archlinux/" />
+        <updated>2024-01-06T09:06:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/2023zj/</id>
+        <title>凄凉又做他乡人——2023年终总结</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/2023zj/"/>
+        <content type="html">&lt;p&gt;今天已经是 2024 年的第 6 天，也是来到俄罗斯的第 186 天。不出意外的话，今年又是一个人独自在外过年，从 2017 年开始，到现在也是独自在外过的第 7 个年了。&lt;/p&gt;
+&lt;p&gt;我们单位在鄂木斯克，时差和国内不算太大，和新疆那边差不多，也是东 6 区。可能因为是小城市的原因，在大街上很少看到有亚洲面孔的人。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2024/24200E810F31416B29F2EDB5A6E1DD66.png&#34; alt=&#34;夕阳西下&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;作为四川人，很少看到下雪，更别提这么大的雪了，同时也是第一次感受到零下三四十度的天气。网上也有人在争论南北方哪边更冷，不过我觉得但从感受上来看，还是南方冷一点，毕竟就算是零下三四十度，但你不可能一直在室外吧，室内有暖气能穿短袖、有时还能把我热醒；而南方甚至室内比室外还冷，睡觉躺床上半天被窝都暖和不起来。&lt;/p&gt;
+&lt;p&gt;上周和家里联系，我们小区车位价格都降到 5 万左右了，想之前我买房的时候一个车位都还要十五六万，这才几年啊就降 1/3 了，还好当初没买。或许等我赚两年钱，回去看看能不能买个车位吧。😅&lt;/p&gt;
+&lt;p&gt;2024，人又老了一岁，包里的钱却一点都没见涨，愁啊。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="总结" scheme="https://www.aicsuk.net/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2024-01-06T05:44:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/81jianjun/</id>
+        <title>又是一年八一节</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/81jianjun/"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0159.PNG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;转眼间出来都快一年了啊😔&lt;/p&gt;
+&lt;p&gt;战友们八一建军节快乐啊！&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="八一建军节" scheme="https://www.aicsuk.net/tags/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82/" />
+        <updated>2023-08-01T01:16:21.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/hexotovirtualhost/</id>
+        <title>Hexo自动部署至虚拟主机</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/hexotovirtualhost/"/>
+        <content type="html">&lt;h4 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h4&gt;
+&lt;p&gt;去年 618 我在西部数码一次性买了五年的云虚拟主机，当时好像才两三百块钱。云虚拟主机买来主要是用来挂备案的，想着小厂备案可能查得不严。刚开始还好，博客也部署在华为云服务器上，可能域名指向的是国内，也确实没查过备案。&lt;/p&gt;
+&lt;p&gt;今年 6 月份华为云到期了没续费，刚好我人也在国外，本着能省则省的原则，就把博客部署到 Netlify 了。结果还不到一个月，西数就发邮件来说检测到域名指向了其他 IP 地址。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/20230730152616.png&#34; alt=&#34;西数邮件&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;最后没办法，就只能把这个云虚机用起来，域名分开解析，国内解析到这台虚机，国外解析到 Netlify。&lt;/p&gt;
+&lt;p&gt;但是这样问题也来了，Netlify 还好说，只需要部署至 GITHUB 就好了；可是虚拟主机就不方便了，网上都是说安装 &lt;em&gt;hexo-deployer-ftpsync&lt;/em&gt; 插件，但在部署的时候一直报错，上传不了，只能自己手动 FTP 上传了。&lt;/p&gt;
+&lt;p&gt;后来了解到有个东西叫做 &lt;a href=&#34;https://github.com/SamKirkland/FTP-Deploy-Action&#34;&gt;FTP-Deploy-Action&lt;/a&gt; ，可以通过 GitHub Action 自动将博客部署到虚拟主机，简直不要太方便，甚至还可以通过 GitHub Action 同时部署到 Github Pages 和虚拟主机。&lt;/p&gt;
+&lt;h4 id=&#34;前提条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前提条件&#34;&gt;#&lt;/a&gt; 前提条件&lt;/h4&gt;
+&lt;h5 id=&#34;一-需要使用虚拟主机部署hexo博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-需要使用虚拟主机部署hexo博客&#34;&gt;#&lt;/a&gt; 一、需要使用虚拟主机部署 Hexo 博客&lt;/h5&gt;
+&lt;h5 id=&#34;二-hexo博客能正常部署访问&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-hexo博客能正常部署访问&#34;&gt;#&lt;/a&gt; 二、Hexo 博客能正常部署访问&lt;/h5&gt;
+&lt;p&gt;如果还没有 Hexo 博客或者不会搭建 Hexo 博客的话，可以看看下面两篇文章：&lt;/p&gt;
+&lt;p&gt;1、&lt;a href=&#34;https://akilar.top/posts/6ef63e2d/&#34;&gt;Win10:Hexo+github 搭建个人博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2、&lt;a href=&#34;https://akilar.top/posts/e5502ef6/&#34;&gt;Ubuntu:Hexo+github 搭建个人博客&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;三-hexo博客可以通过-github-action-部署到-github-pages&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-hexo博客可以通过-github-action-部署到-github-pages&#34;&gt;#&lt;/a&gt; 三、Hexo 博客可以通过 GitHub Action 部署到 Github Pages&lt;/h5&gt;
+&lt;p&gt;如果还没有配置好 GitHub Action 的话，可以看看这篇文章 &lt;a href=&#34;https://akilar.top/posts/f752c86d/&#34;&gt;使用 Github Action 实现全自动部署 &lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;另外，在将本地文件备份至 Github 的过程中，可能会出现主题文件夹是空文件夹的情况，这样通过 GitHub Action 部署后博客打开会白屏没有任何样式。解决办法可以看看这里 &lt;a href=&#34;https://blog.csdn.net/liaoweilin0529/article/details/113650333&#34;&gt;Hexo 主题 themes - 文件夹无法提交到 GitHub 的解决方法&lt;/a&gt; 。&lt;/p&gt;
+&lt;h4 id=&#34;配置-github-action&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-github-action&#34;&gt;#&lt;/a&gt; 配置 GitHub Action&lt;/h4&gt;
+&lt;p&gt;打开 Action 配置文件 &lt;code&gt;（本地博客仓库目录/.github/workflows/(Action配置文件).yml）&lt;/code&gt; ，在后面添加&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;- name: Deploy Files on Ftp Server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  uses: SamKirkland/FTP-Deploy-Action@4.3.3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  with:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    server: (FTP服务器地址)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    username: (FTP用户名)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    password: (FTP密码)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    local-dir: ./public/&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    server-dir: (FTP服务器文件目录)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    port: (FTP服务器端口，一般是21)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;最后直接将博客源码提交到 github 上就行了。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="GitHub Action" scheme="https://www.aicsuk.net/tags/GitHub-Action/" />
+        <category term="虚拟主机" scheme="https://www.aicsuk.net/tags/%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA/" />
+        <updated>2023-07-30T06:55:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/jinkuang/</id>
+        <title>两三月的近况</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/jinkuang/"/>
+        <content type="html">&lt;h4 id=&#34;第一次坐飞机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一次坐飞机&#34;&gt;#&lt;/a&gt; 第一次坐飞机&lt;/h4&gt;
+&lt;p&gt;6 月的第一天，自己体验了下坐飞机，从成都飞往俄罗斯鄂木斯克，飞行全程 12 个小时，中间在莫斯科谢列梅捷沃机场转机休息两三个小时。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0053(20230713-141000).JPG&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0052(20230713-140956).JPG&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;成都飞莫斯科乘坐的是四川航空 3U3887 航班，也算是同时体验了一把传说中的 “喂猪” 航空，中途主食零食基本没停过。莫斯科飞鄂木斯克坐的是俄航 SU1638 航班，登机后的第一映像就是飞机太小了，中途送的飞机餐也没有川航的好吃。&lt;/p&gt;
+&lt;p&gt;总体来说，我觉得坐飞机也不咋样，在天上十几个小时，全程手机没信号，除了看电影就是睡觉，一点娱乐活动都没有，要是没啥急事的话，坐飞机真没有坐火车舒服。😞&lt;/p&gt;
+&lt;h4 id=&#34;逛街&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#逛街&#34;&gt;#&lt;/a&gt; 逛街&lt;/h4&gt;
+&lt;p&gt;鄂木斯克这边和国内时差 2 小时，这边 12 点国内就 14 点了，而且这边白天日照时间非常长，早上四五点钟太阳就出来了，一直到晚上九十点才下山，刚来的时候特别不适应，现在好多了。&lt;/p&gt;
+&lt;p&gt;来鄂木斯克主要是过来工作的，中间也断断续续的出去过几次。最大的映像就是这边的俄罗斯人上午上班太晚了，上午九十点钟都不见几个商店开门。&lt;/p&gt;
+&lt;p&gt;鄂木斯克市是俄罗斯鄂木斯克州的首府，就和国内省会一样，但是走在街上感觉还不如我们国内的一个小县城，城中间主干道还好，一些其他的道路上还有灰尘，人行道直接就是泥巴路。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/B909F0F288A52B4E6347947744A1AEDA.png&#34; alt=&#34;主路一角&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;而且他们这边车辆没有报废制度，所以在路上能看到豪车、新车，也能看见车龄几十年的老爷车。并且还没有 5G 网络，只有 4G，甚至有些时候手机都只有 3G 信号，对我这种极度喜欢手机网上冲浪的人来说简直就是地狱，另外我刚来的时候还体验到了因天气热导致外面基站被烧坏的情况，简直无语，这边的基建太差了。&lt;/p&gt;
+&lt;p&gt;上周又出去逛了一下，上午快十点了，这边商场外面都没几个人。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0024.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;闲逛途中看见另一家商场外面还挂着镰锤标记，可能俄罗斯人也还是怀恋以前的那个时代吧。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0033.JPG&#34; alt=&#34;锤镰&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;晚上回到住所，和朋友出去一家国人开的烧烤店撸串，5 串猪肉串 50 元人民币，感觉还行，就是少了点辣椒。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/5E81D3DE220DED49E85DCCFC18800D05.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;新手机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新手机&#34;&gt;#&lt;/a&gt; 新手机&lt;/h4&gt;
+&lt;p&gt;过来之后想换个苹果手机，结果发现这边同配置的苹果 14 pro 比国内贵很多，紫色 256G 苹果 14 pro 卖 135990 卢布，合人民币 10800 多，而国内京东上也才 8000 出头，相差近两三千块钱，而且就算在网上买了之后也要十多天才能送到。&lt;/p&gt;
+&lt;p&gt;所以 6 月底我托朋友在国内买了台国行紫色苹果 14pro 带过来，这样一算我省了好多钱！🤑&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/20230713155926.png&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/IMG_0054.PNG&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/13D99242AAED29BA03BC53FACF448F0F.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/66F0DDD31A45AD020822A02653B848F1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;可惜当时忘了买手机壳和贴膜了，上周出去在这边买的手机壳和贴膜，总共花了我 2600 多卢布，太贵了。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="俄罗斯" scheme="https://www.aicsuk.net/tags/%E4%BF%84%E7%BD%97%E6%96%AF/" />
+        <category term="鄂木斯克" scheme="https://www.aicsuk.net/tags/%E9%84%82%E6%9C%A8%E6%96%AF%E5%85%8B/" />
+        <updated>2023-07-13T06:17:17.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/xinpckaixiang/</id>
+        <title>新电脑开箱记录——戴尔G16 7630</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/xinpckaixiang/"/>
+        <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;技术规格&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;处理器&lt;/td&gt;
+&lt;td&gt;Intel Core i9-13900HX(2.2GHz/L3 36M)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;内存&lt;/td&gt;
+&lt;td&gt;16GB 2x8GB DDR5 4800MHz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;硬盘&lt;/td&gt;
+&lt;td&gt;1TB, M.2, PCIe NVMe, 固态硬盘&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;显示屏&lt;/td&gt;
+&lt;td&gt;16 英寸 QHD+ (2560 x 1600) 240Hz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;显卡&lt;/td&gt;
+&lt;td&gt;NVIDIA® GeForce RTX™ 4060, 8GB GDDR6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;网络适配器&lt;/td&gt;
+&lt;td&gt;英特尔 ® Wi-Fi 6 AX201, 2x2, 802.11ax, 蓝牙 ® 无线网卡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df7b89c43c.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df7d9ecbab.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;17 号早晨买的，下午下班就送到了，京东别的不说，送货速度还是挺快的。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df857cbff0.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;箱子里就这些东西，一个主机一个电源适配器，就是这个原装的 330W 电源太大了，跟个电动车充电器差不多。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df8f679f5f.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;正面如图，外观看起来还行，摸起来手感也挺好，感觉像是金属材质。特别是它这个 Cherry 机械键盘，打字非常舒服，就是声音比其他普通的笔记本键盘大一些。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df9d8e360f.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/04/18/643df9ec97578.jpg?x-oss-process=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这电脑我觉得啥都好，就是没有人脸识别和指纹解锁，有点坑，毕竟 11999 的价格在这。而且无线网卡也还是 AX201 的，上个 AX211 多好。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="戴尔G16" scheme="https://www.aicsuk.net/tags/%E6%88%B4%E5%B0%94G16/" />
+        <category term="开箱" scheme="https://www.aicsuk.net/tags/%E5%BC%80%E7%AE%B1/" />
+        <updated>2023-04-18T01:15:20.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/wmcty/</id>
+        <title>外卖初体验——兼职美团骑手配送回顾</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/wmcty/"/>
+        <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b986f4aec5e.jpg&#34; alt=&#34;第一页&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b98751b0cc4.jpg&#34; alt=&#34;第二页&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b98764f262f.jpg&#34; alt=&#34;第三页&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b98773591f7.jpg&#34; alt=&#34;第四页&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b9879024842.jpg&#34; alt=&#34;第五页&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b9879fb387e.jpg&#34; alt=&#34;第六页&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b987af148af.jpg&#34; alt=&#34;第七页&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b987bd1503d.jpg&#34; alt=&#34;第八页&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2023/01/07/63b987cb6b368.jpg&#34; alt=&#34;第九页&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;在家闲着也是闲着，还不如出来跑个外卖挣点外快，运气好还能加个餐🤣&lt;/p&gt;
+&lt;p&gt;到现在已经跑了快十天了，就下午和晚上跑一会，差不多也跑了个小一千，至少油钱是跑回来了。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="美团" scheme="https://www.aicsuk.net/tags/%E7%BE%8E%E5%9B%A2/" />
+        <category term="外卖" scheme="https://www.aicsuk.net/tags/%E5%A4%96%E5%8D%96/" />
+        <updated>2023-01-07T13:54:11.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/2022zongjie/</id>
+        <title>愿此去前路皆坦途——2022年终总结</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/2022zongjie/"/>
+        <content type="html">&lt;p&gt;这算是我第二次在博客上写年终总结。&lt;/p&gt;
+&lt;p&gt;又是一年最后一天，往年在单位的这段时间，都已经开始交手写的年终工作总结报告了。&lt;/p&gt;
+&lt;h2 id=&#34;工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作&#34;&gt;#&lt;/a&gt; 工作&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今年是自己人生中的一个转折点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上半年，自己开始负责一些单位交给的任务，也向组织递交了入党申请书。三月份还参加了单位组织的活动并取得了全单位第二名的好成绩。&lt;/p&gt;
+&lt;p&gt;原本都计划下半年选取为二级军士后慢慢向骨干方向培养，结果在下半年时犯了一个错误，导致自己脱下戎装，遗憾退伍。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/12/31/63afe9209e704.jpg&#34; alt=&#34;再见，人民空军&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;最后一个季度，自己也找了一段时间的工作。事业单位、私企、消防，自己都去尝试过应聘，甚至还去兼职送过一段时间的外卖。幸好在今年的最后一个月，自己成功面试了一家国企，年后入职。&lt;/p&gt;
+&lt;h2 id=&#34;生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活&#34;&gt;#&lt;/a&gt; 生活&lt;/h2&gt;
+&lt;p&gt;9 月 1 日上午，当我走出军营的那一刻，我才意识到，自己以后再也没有机会穿上这身空军蓝了。当天下午 18 时，受疫情，全成都开始原则居家，一直居家半个月之久。&lt;/p&gt;
+&lt;p&gt;10 月，买了自己人生中第一辆摩托车 —— 豪爵 UHR150，至此，我在哪，它在哪。&lt;/p&gt;
+&lt;p&gt;12 月，骑着自己的摩托车，从成都回到老家达州渠县，360 多公里骑了 8 个小时左右。&lt;/p&gt;
+&lt;p&gt;今年，最开心的就是自己的房子装修完成，赶在跨年前搬进了新家，从此自己在成都正式安家落户。&lt;/p&gt;
+&lt;h2 id=&#34;运动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#运动&#34;&gt;#&lt;/a&gt; 运动&lt;/h2&gt;
+&lt;p&gt;由于自己原本打算留队，所以上半年自己一直在努力锻炼。以前自己体能四项基础科目和三项专项科目有一大半不能及格，锻炼以后，今年一季度考核，七项科目自己及格了六项，体重也降到了 70KG。&lt;/p&gt;
+&lt;p&gt;然而下半年退伍后，自己开始摆烂，不再锻炼，现在也不知道自己体能还有几项能及格了。😂&lt;/p&gt;
+&lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
+&lt;p&gt;希望 2023 年自己能安安稳稳的度过。&lt;/p&gt;
+&lt;p&gt;愿，此去前路皆坦途，归来亦无悔。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="总结" scheme="https://www.aicsuk.net/tags/%E6%80%BB%E7%BB%93/" />
+        <updated>2022-12-31T08:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/reprint/hexobianxie/</id>
+        <title>Hexo博客神器——Hexo便携版</title>
+        <link rel="alternate" href="https://www.aicsuk.net/reprint/hexobianxie/"/>
+        <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;博主最近买了台新电脑，原来装好 Hexo 环境的老电脑目前就没怎么用，又懒得重新换电脑部署，想着看看能不能实现两台电脑同步部署。结果研究了很久，发现网上的多端部署教程都选择将 Hexo 备份至 Github 仓库。因为我博客是部署在华为云服务器上的，感觉再备份至 Github 仓库的话会很麻烦，所有突发奇想看看能不能实现便携式 Hexo。&lt;/p&gt;
+&lt;p&gt;终于，我找到了这款 Hexo 懒人包，里面包含了 Node.js 便携版和 Git 便携版，理论上任何 Windows 系统的电脑都能直接使用，免去了新电脑 Node.js 和 Git 的安装和配置。&lt;/p&gt;
+&lt;h2 id=&#34;懒人包简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#懒人包简介&#34;&gt;#&lt;/a&gt; 懒人包简介&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/11/24/637f011a7eb45.png&#34; alt=&#34;PortableHexo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;其中，hexo 文件夹是博客源文件所在文件夹，可直接将已有博客文件全部复制到此文件夹内，也可重新安装 Hexo。home 文件夹和 support 文件夹不用管。&lt;/p&gt;
+&lt;p&gt;其余批处理文件顾名思义，如果是重新安装的 Hexo 博客，需要执行一下配置 Github 部署和配置基本信息，如果是原有博客文件复制过来的就不用执行。&lt;/p&gt;
+&lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
+&lt;p&gt;懒人包配置好后，可将懒人包放在 U 盘里，直接在 U 盘写作部署；也可以将懒人包压缩后放到网盘里。&lt;/p&gt;
+&lt;p&gt;以后不管在哪、用哪台电脑，只要 U 盘在，就能随时随地写东西了。🤣&lt;/p&gt;
+&lt;p&gt;这篇文章就是在新电脑上用 U 盘写的。&lt;/p&gt;
+&lt;p&gt;懒人包地址：&lt;a href=&#34;https://www.bilibili.com/read/cv15172764/&#34;&gt;Hexo 懒人包 5.0 版本&lt;/a&gt; ｜ &lt;a href=&#34;https://pan.baidu.com/s/17zYeBuwm_2shHi527Ugbvw&#34;&gt;百度网盘（提取码 3n1b）&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="转载分享" scheme="https://www.aicsuk.net/categories/%E8%BD%AC%E8%BD%BD%E5%88%86%E4%BA%AB/" />
+        <category term="Hexo" scheme="https://www.aicsuk.net/tags/Hexo/" />
+        <updated>2022-11-24T05:12:44.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/atlas/ldzzg/</id>
+        <title>【转载】【Worlds Collide燃向】劳动者战歌</title>
+        <link rel="alternate" href="https://www.aicsuk.net/atlas/ldzzg/"/>
+        <content type="html">&lt;p&gt;
+&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-bottom: 75%;&#34;&gt;&lt;iframe 
+src=&#34;//player.bilibili.com/player.html?aid=455836976&amp;bvid=BV1L5411x7ac&amp;cid=193641072&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; 
+frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;&#34;&gt; &lt;/iframe&gt;&lt;/div&gt;
+&lt;/p&gt;
+</content>
+        <category term="音乐图集" scheme="https://www.aicsuk.net/categories/%E9%9F%B3%E4%B9%90%E5%9B%BE%E9%9B%86/" />
+        <category term="红色" scheme="https://www.aicsuk.net/tags/%E7%BA%A2%E8%89%B2/" />
+        <updated>2022-11-24T04:19:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/chengduren/</id>
+        <title>以后也算是成都人了</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/chengduren/"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/15/634a8e142e322.jpg&#34; alt=&#34;介绍信&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;新身份证到了，从此以后也算是个成都人了。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/15/634a8d7b2af00.jpg&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/15/634a8d7d431ae.jpg&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;当兵五年，得了个成都户口，还行吧。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="成都" scheme="https://www.aicsuk.net/tags/%E6%88%90%E9%83%BD/" />
+        <category term="落户" scheme="https://www.aicsuk.net/tags/%E8%90%BD%E6%88%B7/" />
+        <updated>2022-10-15T10:01:24.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/hjuhr150/</id>
+        <title>新车100公里纪念</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/hjuhr150/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;踏板才是最终的归宿！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为了方便通勤和节假日周边游，我前天去提了辆摩托车，豪爵 UHR150。这辆车也算是个网红车吧，网上对它的评价也很好。&lt;/p&gt;
+&lt;p&gt;这辆车是我在 10 月 2 日订的蓝色箱版现车，不过由于当时处于国庆，车管所放假了上不了牌，一直等到 10 月 9 日才上牌。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344fbf3148db.jpg&#34; alt=&#34;行驶证&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;由于是车行代上牌，所以等拿到车时都是晚上了。&lt;/p&gt;
+&lt;p&gt;昨天，骑着这车跑了一下午，个人感觉还不错，骑行过程中最高车速 80+km/s。不过我个人感觉摩托车不适合走乡村小道，路烂颠的屁股疼。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344fde83ad3a.jpg&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344fde9ab5c9.jpg&#34; alt=&#34;2&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344fde9a13f3.jpg&#34; alt=&#34;3&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;另外，这辆车还配有两个 USB 充电口，方便骑车的时候给手机充电。一个充电口在车把下面左侧的储物格里；另一个在坐桶下面。&lt;s&gt;（我个人觉得坐桶下面这个充电口设计得不是很方便）&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344ffca245fa.jpg&#34; alt=&#34;第一个充电口&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6344ffca60039.jpg&#34; alt=&#34;第一个充电口&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6345001543ea3.jpg&#34; alt=&#34;第二个充电口&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;还有，我觉得这个车最大的缺点就是后轮挡泥板太短了，一路跑下来甩得后面全是泥。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/6345008448d4f.jpg&#34; alt=&#34;右边&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/63450084ae56a.jpg&#34; alt=&#34;左边&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;下午 4 点 46 分，车子跑到 100 公里了。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/634500ec937cb.jpg&#34; alt=&#34;里程表&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;整车油耗的话估计在 2.6L 百公里左右。车子油箱 8L，油表 6 格，平均一格大约 1.33L。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/10/11/63450170cf643.jpg&#34; alt=&#34;沿途风景&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="新车" scheme="https://www.aicsuk.net/tags/%E6%96%B0%E8%BD%A6/" />
+        <category term="豪爵" scheme="https://www.aicsuk.net/tags/%E8%B1%AA%E7%88%B5/" />
+        <category term="豪爵UHR150" scheme="https://www.aicsuk.net/tags/%E8%B1%AA%E7%88%B5UHR150/" />
+        <updated>2022-10-11T04:25:16.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/hexonote-1/</id>
+        <title>Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/hexonote-1/"/>
+        <content type="html">&lt;p&gt;近期将博客换成 Hexo 之后，最开始是部署在 Github Pages 上面，访问时一切正常。后面觉得 Github Pages 访问速度时快时慢，边重新部署在国内的华为云服务器上，这时问题就出来了，评论系统里面的表情图片正常情况下加载不出来，要搭梯子才行。&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/15/63227952eaa1e.png&#34; alt=&#34;表情加载失败&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;后来参考了&lt;a href=&#34;https://www.reversesacle.com/&#34;&gt; ReverseSacle 大佬&lt;/a&gt;关于 [Shoka 主题功能的一些补充介绍](&lt;a href=&#34;https://www.reversesacle.com/Supplement-for-theme-of-shoka/&#34;&gt;Hexo-Shoka 主题功能介绍补充点 | ReverseSacle-Blog = 逆转天平 = 执着过去的人，无法迈向未来&lt;/a&gt;) 一文，并请教了 ReverseSacle 大佬后才了解到，shoka 主题使用的是  &lt;code&gt;Valine-Admin&lt;/code&gt;  魔改评论系统，基本上都使用了 &lt;code&gt; Jsdelivr&lt;/code&gt;  的资源，并由于国内的服务器无法访问资源才导致的表情加载失败。&lt;/p&gt;
+&lt;p&gt;为防止自己以后会忘记，特此记录下解决过程。&lt;/p&gt;
+&lt;h3 id=&#34;vercel-反代-jsdelivr-的加速链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vercel-反代-jsdelivr-的加速链接&#34;&gt;#&lt;/a&gt; Vercel 反代 Jsdelivr 的加速链接&lt;/h3&gt;
+&lt;p&gt;这一步，ReverseSacle 大佬的文章中是以  &lt;code&gt;Windows10&lt;/code&gt;  系统为例，但我习惯使用  &lt;code&gt;Linux&lt;/code&gt;  系统，所以此次我使用  &lt;code&gt;Centos 8.2&lt;/code&gt;  系统为例。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装  &lt;code&gt;Node.js&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install update&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install nodejs&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install npm&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm install -g n&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;n lts&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装  &lt;code&gt;vercel&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm install -g vercel&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装完  &lt;code&gt;vercel&lt;/code&gt;  后，输入  &lt;code&gt;vercel login&lt;/code&gt;  ，会让你选择登陆  &lt;code&gt;vercel&lt;/code&gt;  的方式（选择的位置以  &lt;code&gt;等待输入光标&lt;/code&gt;  为准，  &lt;code&gt;Enter&lt;/code&gt;  键确认，具体依情况选择)，之后会跳出登入页面&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/16/63244032ccfbb.png&#34; alt=&#34;如图所示&#34; /&gt;&lt;br /&gt;
+这里我使用的是邮箱登陆，会出现下图中的情况，这是  &lt;code&gt;vercel&lt;/code&gt;  给你登陆邮箱发送了确认邮件，需要你在邮件中点击确认链接才能登陆&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/16/632442beabef2.png&#34; alt=&#34;邮箱登陆&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新建一个名为  &lt;code&gt;jd_gh&lt;/code&gt;  文件夹 (名字自定义)，进入到 jd_gh 文件夹中，新建一个  &lt;code&gt;jd_gh.json&lt;/code&gt;  文件 (名字自定义)&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mkdir jd_gh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;cd jd_gh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;touch jd_gh.json&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用  &lt;code&gt;文本编辑器&lt;/code&gt;  打开  &lt;code&gt;jd_gh.json&lt;/code&gt;  文件并输入下方反代代码&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &#34;version&#34;: 2,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &#34;routes&#34;: [&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                &amp;#123;&#34;src&#34;: &#34;/(.*)&#34;,&#34;dest&#34;: &#34;https://cdn.jsdelivr.net/$1&#34;&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                ]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后输入命令  &lt;code&gt;vercel -A jd_gh.json --prod&lt;/code&gt;  来在 vercel 上部署&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;ins class=&#34;dot&#34;&gt;注意  &lt;code&gt;what&#39;s your project&#39;s name?&lt;/code&gt;  这个提示，此处是提示输入你部署项目所需要的名称 (按喜好来定就行了，另外这里不支持特殊字符，  &lt;code&gt;-&lt;/code&gt;  号除外)，其他的选项按下方图片提示来选择即可&lt;/ins&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/16/63244364d92b3.webp&#34; alt=&#34;直接使用ReverseSacle大佬的图&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后，进入 Vercel 官网，登入后可以看到刚刚创建的项目，点击项目，进入后记录下  &lt;code&gt;DOMAINS&lt;/code&gt;  处的链接，也可以绑定自己的域名使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;解决评论区表情图片加载失败问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决评论区表情图片加载失败问题&#34;&gt;#&lt;/a&gt; 解决评论区表情图片加载失败问题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 &lt;a href=&#34;https://github.com/amehime/MiniValine/blob/master/dist/MiniValine.min.js&#34;&gt;MiniValine (Github)&lt;/a&gt; 下载  &lt;code&gt;MiniValine.min.js&lt;/code&gt;  文件，并将  &lt;code&gt;MiniValine.min.js&lt;/code&gt;  文件放入到 hexo 根目录的  &lt;code&gt;./themes/shoka/source/js&lt;/code&gt;  文件夹中&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开  &lt;code&gt;MiniValine.min.js&lt;/code&gt;  文件，找到  &lt;code&gt;VERSION=&amp;quot;4.2.2&amp;quot;&lt;/code&gt;  这一项，将  &lt;code&gt;t.EUrl&lt;/code&gt;  后链接中的 XXX 替换为刚刚记录的  &lt;code&gt;DOMAINS&lt;/code&gt;  地址或自己绑定的域名&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;t.VERSION = &#34;4.2.2&#34;,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;t.GBUrl = &#34;https://gravatar.loli.net/avatar/&#34;,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;t.EUrl = [&#34;https://xxxx/npm/alus@latest&#34;, &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          &#34;https://xxxx/gh/MiniValine/qq@master&#34;, &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          &#34;https://xxxx/gh/MiniValine/Bilibilis@master&#34;,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          &#34;https://xxxx/gh/MiniValine/tieba@master&#34;, &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          &#34;https://xxxx/gh/MiniValine/twemoji@master&#34;,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          &#34;https://xxxx/gh/MiniValine/weibo@master&#34;]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开 hexo 根目录  &lt;code&gt;./themes/shoka/_config.yml&lt;/code&gt;  文件，滑倒最后，找到  &lt;code&gt;valine&lt;/code&gt;  元素，将其参数设为  &lt;code&gt;https://博客域名/js/MiniValine.min.js&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后修改  &lt;code&gt;./themes/shoka/source/js/_app/utils.js&lt;/code&gt;  文件第 26~35 行处&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;//将此代码if(str.indexOf(&#39;npm&#39;)&gt;-1||str.indexOf(&#39;gh&#39;)&gt;-1||str.indexOf(&#39;combine&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;//拆分为下面的代码&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;npm&#39;)&gt;-1||str.indexOf(&#39;combine&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     return &#34;https://cdn.jsdelivr.net/&#34; + str&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;js&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    return str  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;gh&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    return &#34;https://cdn.jsdelivr.net/&#34; + str&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;//代码示例&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;const assetUrl = function(asset, type) &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  var str = CONFIG[asset][type]&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;npm&#39;)&gt;-1||str.indexOf(&#39;combine&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     return &#34;https://cdn.jsdelivr.net/&#34; + str&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;js&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    return str  &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  if(str.indexOf(&#39;gh&#39;)&gt;-1)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    return &#34;https://cdn.jsdelivr.net/&#34; + str&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  return statics + str;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="Hexo" scheme="https://www.aicsuk.net/tags/Hexo/" />
+        <category term="Shoka主题" scheme="https://www.aicsuk.net/tags/Shoka%E4%B8%BB%E9%A2%98/" />
+        <category term="Valine" scheme="https://www.aicsuk.net/tags/Valine/" />
+        <updated>2022-09-16T08:32:54.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/bkzt/</id>
+        <title>叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/bkzt/"/>
+        <content type="html">&lt;p&gt;最近因为疫情原因，天天在家里也无聊得很，想着没事就试着折腾一下 Hexo。&lt;/p&gt;
+&lt;p&gt;刚开始还不会整 Hexo 博客，感觉要比 Typecho 要麻烦的多。经过两天的学习操作，终于建好了 Hexo，本着&lt;s&gt;建好了就不浪费&lt;/s&gt;的原则，决定以后就用 Hexo 了。&lt;/p&gt;
+&lt;p&gt;目前博客程序为 Hexo，使用&lt;a href=&#34;https://github.com/amehime/hexo-theme-shoka&#34;&gt; Theme.Shoka&lt;/a&gt; 主题，部署在华为云服务器上。&lt;/p&gt;
+&lt;p&gt;现在记录一下这个 Hexo 博客从搭建、配置和部署到云服务器的整个过程，免得以后自己忘了。&lt;/p&gt;
+&lt;h3 id=&#34;hexo本地安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo本地安装&#34;&gt;#&lt;/a&gt; Hexo 本地安装&lt;/h3&gt;
+&lt;h4 id=&#34;环境准备&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境准备&#34;&gt;#&lt;/a&gt; 环境准备&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;下载安装&lt;a href=&#34;https://nodejs.org/en/download/&#34;&gt; Node.js&lt;/a&gt;（Node.js 版本需不低于 10.13，Node 自带 npm）&lt;/li&gt;
+&lt;li&gt;下载安装&lt;a href=&#34;https://git-scm.com/download/win&#34;&gt; Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;安装hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装hexo&#34;&gt;#&lt;/a&gt; 安装 Hexo&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;在自己喜欢的位置新建 Hexo 文件夹&lt;/li&gt;
+&lt;li&gt;进入新建的 Hexo 文件夹，右键点击打开 Git Bash Here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#在Hexo目录下安装Hexo&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm install -g hexo-cli&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#检测Hexo是否安装成功&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo -v&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#初始化Hexo，并新建blog文件夹&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo init blog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#转到刚初始化的blog文件夹下，安装npm依赖项，并生成静态文件&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;cd blog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm install&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#启动Hexo服务器&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;访问&lt;a href=&#34;http://localhost:4000&#34;&gt; http://localhost:4000&lt;/a&gt;，出现 Hexo 页面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;安装shoka主题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装shoka主题&#34;&gt;#&lt;/a&gt; 安装 Shoka 主题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;安装主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;# cd your-blog&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;安装主题依赖插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修改 Hexo 博客配置文件_config.yml&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;theme: Shoka&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;生成静态文件并发布&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;访问&lt;a href=&#34;http://localhost:4000&#34;&gt; http://localhost:4000&lt;/a&gt; 进行预览，没问题的情况下就可以将博客部署到服务器上了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;部署到云服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署到云服务器&#34;&gt;#&lt;/a&gt; 部署到云服务器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在自己的电脑上生成 Git 密钥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh-keygen -C &#34;your@mail.com&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;一路回车，这时你应该可以在～/.ssh/ 目录下看到两个刚刚生成好的密钥文件：&lt;br /&gt;
+1. 公钥：id_rsa.pub&lt;br /&gt;
+2. 私钥：id_rsa&lt;/p&gt;
+&lt;p&gt;我们一会需要把公钥的内容拷贝到服务器上&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;服务器环境配置&lt;br /&gt;
+一般刚重装完系统的云服务器非常纯净，什么也没有，所以我们要一点点安装我们所需的内容&lt;br /&gt;
+ 1. Git&lt;br /&gt;
+2. Nginx&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Git 的安装和配置&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#首先需要安装包的依赖&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install  gcc perl-ExtUtils-MakeMaker&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#进入指定目录（这里选择 `usr/local/src`）选择最新版本 [Git](https://mirrors.edge.kernel.org/pub/software/scm/git/) （这里使用 `2.37.3`）下载并解压&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;cd /usr/local/src&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.37.3.tar.gz&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;tar -zxvf git-2.37.3.tar.gz&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#解压出来的 Git 文件都是源文件，我们需要进行编译，进入 Git 解压目录，进行编译和安装, 安装位置（这里选择 `usr/local/git`）, 整个过程可能需要一定等待。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;cd git-2.37.3&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;make prefix=/usr/local/git all&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;make prefix=/usr/local/git install&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#安装好后，我们需要配置环境变量，打开环境变量配置文件：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vim /etc/profile&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#在文件底部添加 Git 安装目录信息。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;PATH=$PATH:/usr/local/git/bin&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;export PATH&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#刷新环境变量，使之生效&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;source /etc/profile&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#此时 Git 应该已经安装完成，可以查看 Git 版本号是否和你指定的版本一样：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git --version&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;Git 新用户与配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#创建 git 用户和密码&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;adduser git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;passwd git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#将 git 用户添加到 sudoers 文件中&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chmod 740 /etc/sudoers&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vim /etc/sudoers&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#在Allow root to run any commands anywhere下面添加 git 用户内容, 保存并退出&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git      ALL=(ALL)       ALL&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#修改回 sudoers 文件权限&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chmod 400 /etc/sudoers&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;测试&lt;br /&gt;
+通过 Git Bash Here 将上面本地生成的 id_rsa.pub 公钥内容拷贝到远端服务器，这个命令会默认在远端服务器 git 用户主目录下生成  &lt;code&gt;authorized_keys&lt;/code&gt;  文件 （~/.ssh/authorized_keys）, 其中  &lt;code&gt;server_ip&lt;/code&gt;  为公网 IP，不是内部 IP，别拷贝错了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh-copy-id -i ~/.ssh/id_rsa.pub git@server_ip&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时可以通过 ssh 命令 (加上  &lt;code&gt;-v&lt;/code&gt;  命令，可以输出详细 log) 测试连接&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh -v git@server_ip&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;博客网站目录配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客网站目录配置&#34;&gt;#&lt;/a&gt; 博客网站目录配置&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;创建博客网站目录位置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#为博客网站创建根目录（这里选择 `/home/hexo`）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mkdir /home/hexo&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#赋予 git 用户权限&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chown git:git -R /home/hexo&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;自动化配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#指定目录位置（这里选择 git 用户主目录 `/home/git`）创建一个名为 `blog.git` 的 `bare repo`&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;cd /home/git &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git init --bare blog.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#同样赋予 git 用户相应权限&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chown git:git -R blog.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#使用自动化配置，自然是要用到 Git 的钩子函数，这里我们需要 `post-receive`，在博客 hooks 目录下新建该文件：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vim blog.git/hooks/post-receive&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#然后添加如下内容(注意目录匹配)，保存并退出：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#!/bin/sh&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git --work-tree=/home/hexo --git-dir=/home/git/blog.git checkout -f&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#最后，赋予这个文件可执行权限&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;chmod +x /home/git/blog.git/hooks/post-receive&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;#接下来，创建个链接，以防后续 deploy 过程出错&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sudo ln -s /usr/local/git/bin/git-receive-pack  /usr/bin/git-receive-pack&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;nginx-安装和配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nginx-安装和配置&#34;&gt;#&lt;/a&gt; Nginx 安装和配置&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum install -y nginx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;systemctl start nginx.service&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这时，在浏览器中输入公网 IP 地址，应该可以看到 Nginx 默认的欢迎界面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;配置&lt;/p&gt;
+&lt;p&gt;这里配置 Nginx，将所有 Http 请求都重定向为 Https 请求，这就需要我们有 SSL 证书。&lt;br /&gt;
+通过  &lt;code&gt;scp&lt;/code&gt;  命令将 SSL 证书拷贝到远端服务器，正常应该将 Nginx 的证书存放在  &lt;code&gt;/etc/nginx/cert&lt;/code&gt;  目录下，这里选择存放在  &lt;code&gt;/home/ssl_cert&lt;/code&gt;  下（如果目录不存在，请自行创建）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;scp ~/路径/证书.key root@server_ip:/home/ssl_cert&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;scp ~/路径/证书.pem root@server_ip:/home/ssl_cert&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;然后打开 Nginx 的配置文件进行整体配置&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;server&amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  listen 80;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  server_name dayarch.top; # 个人域名&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  rewrite ^(.*)$ https://$server_name$1 permanent; # 重定向&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;server &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  listen 443; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  server_name dayarch.top;  # 个人域名&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl on; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_certificate      /路径/证书.pem; # .pem 证书&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_certificate_key  /路径/证书.key; # .key 证书&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_session_cache    shared:SSL:1m;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_session_timeout  5m;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_protocols TLSv1 TLSv1.1 TLSv1.2;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  ssl_prefer_server_ciphers  on;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  location / &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    root   /home/hexo;  # 博客网站主目录&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    index index.php  index.html index.htm; &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    error_page  404              /404.html;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    location = /404.html &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        root   /usr/share/nginx/html;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    error_page   500 502 503 504  /50x.html;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    location = /50x.html &amp;#123;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        root   /usr/share/nginx/html;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;通过  &lt;code&gt;nginx -t&lt;/code&gt;  命令进行检查，一切正常会输出如下结果：&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nginx: the configuration file /etc/nginx/nginx.conf syntax is ok&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;nginx: configuration file /etc/nginx/nginx.conf test is successful&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;重启 Nginx 服务&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;systemctl restart nginx.service&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;至此，所有的准备工作都做完了，接下来，我们需要做一些博客配置&lt;/p&gt;
+&lt;h4 id=&#34;本地博客配置修改&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本地博客配置修改&#34;&gt;#&lt;/a&gt; 本地博客配置修改&lt;/h4&gt;
+&lt;p&gt;我们需要将远端服务器的 Git 仓库信息配置到 Hexo 站点配置文件（ &lt;code&gt;_config.yml&lt;/code&gt; ）中&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;deploy:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; - type: git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   repo: git@server_ip:/home/git/blog.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   branch: master&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;陆续执行 hexo 的命令进行部署&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo d&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;至此，距离成功，我们只差最后一步&lt;/p&gt;
+&lt;h4 id=&#34;域名解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名解析&#34;&gt;#&lt;/a&gt; 域名解析&lt;/h4&gt;
+&lt;p&gt;配置好域名解析，将其指向云服务器的公网地址即可。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="hexo" scheme="https://www.aicsuk.net/tags/hexo/" />
+        <category term="Typecho" scheme="https://www.aicsuk.net/tags/Typecho/" />
+        <updated>2022-09-14T07:21:32.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/jujia/</id>
+        <title>原则居家的第十二天</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/jujia/"/>
+        <content type="html">&lt;p&gt;
+&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-bottom: 75%;&#34;&gt;&lt;iframe 
+src=&#34;//player.bilibili.com/player.html?aid=900403092&amp;bvid=BV1BP4y1Z7Z3&amp;cid=830713520&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; 
+frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;&#34;&gt; &lt;/iframe&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;9 月 1 日博主刚回到家，成都就开始采取居家不外出的措施。一直到今天，满打满算都有 12 天了。天天待在家里，待的人都废了。&lt;br /&gt;
+原则上居家不外出，这样说的话外出了就是不讲原则吗？&lt;br /&gt;
+外面的街上连个人影都没有&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/12/631efb6a489ba.jpg&#34; alt=&#34;空无一人的大街&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;龙泉驿区现在都有好几天没有新增了，希望下一批解封的区县里面就有龙泉驿区。&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="疫情" scheme="https://www.aicsuk.net/tags/%E7%96%AB%E6%83%85/" />
+        <updated>2022-09-12T09:39:56.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/liferecord/tui/</id>
+        <title>五年之期已到</title>
+        <link rel="alternate" href="https://www.aicsuk.net/liferecord/tui/"/>
+        <content type="html">&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/02/6311ca2da6e8f.jpg&#34; alt=&#34;退伍证书&#34; title=&#34;退伍证书&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/02/6311c99743ca2.jpg&#34; alt=&#34;单位纪念&#34; title=&#34;单位纪念&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://cdn.aicsuk.net/2022/09/02/6311ffbd07429.jpg&#34; alt=&#34;1828天&#34; title=&#34;1828天&#34; /&gt;&lt;br /&gt;
+五年了，终于熬出头了&lt;/p&gt;
+</content>
+        <category term="生活记录" scheme="https://www.aicsuk.net/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/" />
+        <category term="退伍" scheme="https://www.aicsuk.net/tags/%E9%80%80%E4%BC%8D/" />
+        <updated>2022-09-02T09:21:18.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.aicsuk.net/toss/server-1/</id>
+        <title>忍不住又在服务器上花钱了</title>
+        <link rel="alternate" href="https://www.aicsuk.net/toss/server-1/"/>
+        <content type="html">&lt;p&gt;  最近这个月沉迷服务器无法自拔，先买了华为云的云服务器，然后又买了天翼云的云服务器，博客也从之前的腾讯云香港搬到了华为云。&lt;br /&gt;
+  本来现在天翼云的服务器还在备案，想着等备案下来之后再把博客搬到天翼云的，结果现在又变卦了，买了台镇江的物理服务器，过几天应该会把博客搬到镇江的服务器上。&lt;br /&gt;
+  这个月买服务器都花了接近 2000 块钱了。&lt;br /&gt;
+  这台镇江的独服配置是我有史以来用过的配置最高的服务器，16 核处理器、32G 内存、512G 硬盘、50M 宽带，是我以前最开始接触建站时想都不敢想的配置 。&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;-------------------- A Bench.sh Script By Teddysun -------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Version            : v2022-06-01&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Usage              : wget -qO- bench.sh | bash&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;----------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; CPU Model          : Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; CPU Cores          : 32 @ 2300.325 MHz&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; CPU Cache          : 20480 KB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; AES-NI             : Enabled&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; VM-x/AMD-V         : Enabled&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Total Disk         : 467.5 GB (5.4 GB Used)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Total Mem          : 31.3 GB (1.4 GB Used)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Total Swap         : 976.0 MB (0 Used)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; System uptime      : 0 days, 21 hour 22 min&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Load average       : 0.00, 0.00, 0.00&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; OS                 : Debian GNU/Linux 11&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Arch               : x86_64 (64 Bit)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Kernel             : 5.10.0-8-amd64&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; TCP CC             :&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Virtualization     : Dedicated&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Organization       : AS56046 China Mobile communications corporation&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Location           : Zhenjiang / CN&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Region             : Jiangsu&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;----------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; I/O Speed(1st run) : 843 MB/s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; I/O Speed(2nd run) : 886 MB/s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; I/O Speed(3rd run) : 888 MB/s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; I/O Speed(average) : 872.3 MB/s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;----------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Node Name        Upload Speed      Download Speed      Latency&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Speedtest.net    47.48 Mbps        97.68 Mbps          2.46 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Los Angeles, US  15.84 Mbps        1.51 Mbps           175.46 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Montreal, CA     15.57 Mbps        1.13 Mbps           205.37 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Paris, FR        18.21 Mbps        1.54 Mbps           224.56 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Amsterdam, NL    11.68 Mbps        1.45 Mbps           226.40 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Shanghai, CN     44.57 Mbps        98.55 Mbps          11.79 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Singapore, SG    4.43 Mbps         12.94 Mbps          428.94 ms&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;----------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Finished in        : 7 min 46 sec&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; Timestamp          : 2022-07-06 21:40:17 CST&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;----------------------------------------------------------------------&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;  我从最开始建站时用别人的免费主机，再到收费主机，后来到 VPS、云服务器，到现在的物理服务器，一步步升级上来都花了 8 年时间。估计要是以后在升级的话，那就应该是托管服务器了。&lt;/p&gt;
+</content>
+        <category term="折腾学习" scheme="https://www.aicsuk.net/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" />
+        <category term="服务器" scheme="https://www.aicsuk.net/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/" />
+        <updated>2022-07-06T13:50:31.000Z</updated>
+    </entry>
+</feed>
