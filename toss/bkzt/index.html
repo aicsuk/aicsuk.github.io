@@ -1,0 +1,247 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"/><meta name="theme-color" content="#222"/><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><meta name="renderer" content="webkit"/><link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/><link rel="alternate" href="/rss.xml" title="Aicsuk" type="application/rss+xml"><link rel="alternate" href="/atom.xml" title="Aicsuk" type="application/atom+xml"><link rel="alternate" type="application/json" title="Aicsuk" href="https://www.aicsuk.net/feed.json"/><link rel="preconnect" href="https://s4.zstatic.net"/><link rel="preconnect" href="https://at.alicdn.com"/><link rel="preconnect" href="https://lf9-cdn-tos.bytecdntp.com"/><link rel="preconnect" href="https://lf6-unpkg.zstaticcdn.com"/><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/><link rel="dns-prefetch" href="https://unpkg.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ZCOOL%20KuaiLe:400,400italic,700,700italic%7CFredericka%20the%20Great:400,400italic,700,700italic%7CNoto%20Serif%20JP:400,400italic,700,700italic%7CNoto%20Serif%20SC:400,400italic,700,700italic%7CInconsolata:400,400italic,700,700italic&display=swap&subset=latin,latin-ext" media="none" onload="this.media&#x3D;&#39;all&#39;"><link rel="modulepreload" href="/js/siteInit.js"></link><link rel="modulepreload" href="/js/nyx-player-6UKDYOW6.js"></link><link rel="modulepreload" href="/js/copy-tex-L5X45C3D.js"></link><link rel="modulepreload" href="/js/post-2JPIR64B.js"></link><link rel="modulepreload" href="/js/chunk-VIRDU2P3.js"></link><link rel="modulepreload" href="/js/tcomments-H4Z3KOOY.js"></link><link rel="modulepreload" href="/js/search-IPMKZQOU.js"></link><link rel="modulepreload" href="/js/chunk-FU6DRZIE.js"></link><link rel="modulepreload" href="/js/chunk-Y3FFATYU.js"></link><link rel="modulepreload" href="/js/index.esm-LUMGU2L7.js"></link><link rel="modulepreload" href="/js/chunk-WWHD7ODF.js"></link><link rel="modulepreload" href="/js/chunk-GUMPUKJL.js"></link><link rel="modulepreload" href="/js/cf-patch.js"></link><link rel="stylesheet" href="/css/siteInit.css" media="none" onload="this.media&#x3D;&#39;all&#39;"></link><script src="/js/cf-patch.js?v=0.5.4" type="module" fetchpriority="high" defer></script><link rel="preload" href="https://cdn.aicsuk.net/2022/09/14/632182a349ace.jpg" as="image" fetchpriority="high"><meta name="keywords" content="hexo,"/><meta name="description" content="此去前路皆坦途，归来亦无悔"/><link rel="canonical" href="https://www.aicsuk.net/toss/bkzt/"><script>window.sakuraConfig = {
+  sakura: 30,
+  xSpeed: 0.5,
+  ySpeed: 0.5,
+  rSpeed: 0.03,
+  direction: "TopRight",
+  zIndex: -1
+};</script><script src="https://api.aicsuk.net/js/sakura-rain.js" defer="defer"></script><link rel="stylesheet" href="/css/post.css?v=0.5.4"><link rel="stylesheet" href="/css/mermaid.css?v=0.5.4"><!-- 临时处理--><link rel="stylesheet" media="none" onload="this.media='all'" href="https://s4.zstatic.net/ajax/libs/KaTeX/0.16.9/katex.min.css"><title>叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</title><meta name="generator" content="Hexo 8.0.0"></head><body itemscope itemtype="http://schema.org/WebPage"><div id="loading"><div class="cat"><div class="body"></div><div class="head"><div class="face"></div></div><div class="foot"><div class="tummy-end"></div><div class="bottom"></div><div class="legs left"></div><div class="legs right"></div></div><div class="paw"><div class="hands left"></div><div class="hands right"></div></div></div></div><div id="pagefind_mount"></div><div id="container"><header id="header" itemscope itemtype="http://schema.org/WPHeader"><div class="inner"><div id="brand"><div class="pjax"><h1 itemprop="name headline">叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</h1><div class="meta"><span class="item" title="创建时间：2022-09-14 15:21:32"><span class="icon"><i class="ic i-calendar"></i></span><span class="text">发表于</span><time itemprop="dateCreated datePublished" datetime="2022-09-14T15:21:32+08:00">2022-09-14</time></span><span class="item" title="本文字数"><span class="icon"><i class="ic i-pen"></i></span><span class="text">本文字数</span><span>5.2k</span><span class="text">字</span></span><span class="item" title="阅读时长"><span class="icon"><i class="ic i-clock"></i></span><span class="text">阅读时长</span><span>5 分钟</span></span></div></div></div><nav id="nav"><div class="inner"><div class="toggle"><div class="lines" aria-label="切换导航栏"><span class="line"></span><span class="line"></span><span class="line"></span></div></div><ul class="menu"><li class="item title"><a href="/" rel="start">Aicsuk's World</a></li></ul><ul class="right" id="rightNav"><li class="item theme"><i class="ic i-sun"></i></li><li class="item search"><i class="ic i-search"></i></li></ul></div></nav></div><div class="pjax" id="imgs"><img src="https://cdn.aicsuk.net/2022/09/14/632182a349ace.jpg" loading="eager" decoding="async" fetchpriority="high" alt="Aicsuk"></div></header><div id="waves"><svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"></use><use xlink:href="#gentle-wave" x="48" y="3"></use><use xlink:href="#gentle-wave" x="48" y="5"></use><use xlink:href="#gentle-wave" x="48" y="7"></use></g></svg></div><main><div class="inner"><div class="pjax" id="main"><div class="article wrap"><div class="breadcrumb" itemListElement itemscope itemtype="https://schema.org/BreadcrumbList"><i class="ic i-home"></i><span><a href="/">首页</a></span><i class="ic i-angle-right"></i><span class="current" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a href="/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" itemprop="item" rel="index" title="分类于折腾学习"><span itemprop="name">折腾学习<meta itemprop="position" content="0"/></span></a></span></div><article class="post block" itemscope="itemscope" itemtype="http://schema.org/Article" data-pagefind-body="data-pagefind-body" lang="zh-CN"><link itemprop="mainEntityOfPage" href="https://www.aicsuk.net/toss/bkzt/"/><span hidden="hidden" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><meta itemprop="image" content="/images/avatar.jpg"/><meta itemprop="name" content="Aicsuk"/><meta itemprop="description" content="一个小小的博客, 此去前路皆坦途，归来亦无悔"/></span><span hidden="hidden" itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aicsuk"/></span><div class="body md" itemprop="articleBody"><p>最近因为疫情原因，天天在家里也无聊得很，想着没事就试着折腾一下Hexo。</p>
+<p>刚开始还不会整Hexo博客，感觉要比Typecho要麻烦的多。经过两天的学习操作，终于建好了Hexo，本着<s>建好了就不浪费</s>的原则，决定以后就用Hexo了。</p>
+<p>目前博客程序为Hexo，使用<a target="_blank" rel="noopener" href="https://github.com/amehime/hexo-theme-shoka">Theme.Shoka</a>主题，部署在华为云服务器上。</p>
+<p>现在记录一下这个Hexo博客从搭建、配置和部署到云服务器的整个过程，免得以后自己忘了。</p>
+<h3 id="hexo本地安装"><a class="anchor" href="#hexo本地安装">#</a> Hexo本地安装</h3>
+<h4 id="环境准备"><a class="anchor" href="#环境准备">#</a> 环境准备</h4>
+<ul>
+<li>下载安装<a target="_blank" rel="noopener" href="https://nodejs.org/en/download/">Node.js</a>（Node.js 版本需不低于 10.13，Node自带npm）</li>
+<li>下载安装<a target="_blank" rel="noopener" href="https://git-scm.com/download/win">Git</a></li>
+</ul>
+<h4 id="安装hexo"><a class="anchor" href="#安装hexo">#</a> 安装Hexo</h4>
+<ul>
+<li>在自己喜欢的位置新建Hexo文件夹</li>
+<li>进入新建的Hexo文件夹，右键点击打开Git Bash Here</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#在Hexo目录下安装Hexo</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">npm install -g hexo-cli</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#检测Hexo是否安装成功</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo -v</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#初始化Hexo，并新建blog文件夹</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo init blog</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#转到刚初始化的blog文件夹下，安装npm依赖项，并生成静态文件</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">cd blog</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">npm install</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo g</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#启动Hexo服务器</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo s</span></span></code></pre>
+<ul>
+<li>访问<a target="_blank" rel="noopener" href="http://localhost:4000">http://localhost:4000</a>，出现Hexo页面</li>
+</ul>
+<h3 id="安装shoka主题"><a class="anchor" href="#安装shoka主题">#</a> 安装Shoka主题</h3>
+<ul>
+<li>安装主题</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE"># cd your-blog</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">git clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka</span></span></code></pre>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/dependents/">安装主题依赖插件</a></li>
+<li>修改Hexo博客配置文件_config.yml</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">theme: Shoka</span></span></code></pre>
+<ul>
+<li>生成静态文件并发布</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo g</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo s</span></span></code></pre>
+<ul>
+<li>访问<a target="_blank" rel="noopener" href="http://localhost:4000">http://localhost:4000</a> 进行预览，没问题的情况下就可以将博客部署到服务器上了。</li>
+</ul>
+<h3 id="部署到云服务器"><a class="anchor" href="#部署到云服务器">#</a> 部署到云服务器</h3>
+<ul>
+<li>在自己的电脑上生成 Git 密钥</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">ssh-keygen -C "your@mail.com"</span></span></code></pre>
+<p>一路回车，这时你应该可以在 ~/.ssh/ 目录下看到两个刚刚生成好的密钥文件：<br />
+1. 公钥：id_rsa.pub<br />
+2. 私钥：id_rsa</p>
+<p>我们一会需要把公钥的内容拷贝到服务器上</p>
+<ul>
+<li>
+<p>服务器环境配置<br />
+一般刚重装完系统的云服务器非常纯净，什么也没有，所以我们要一点点安装我们所需的内容<br />
+1. Git<br />
+2. Nginx</p>
+</li>
+<li>
+<p>Git的安装和配置</p>
+</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#首先需要安装包的依赖</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install  gcc perl-ExtUtils-MakeMaker</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#进入指定目录（这里选择 `usr/local/src`）选择最新版本 [Git](https://mirrors.edge.kernel.org/pub/software/scm/git/) （这里使用 `2.37.3`）下载并解压</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">cd /usr/local/src</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.37.3.tar.gz</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">tar -zxvf git-2.37.3.tar.gz</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#解压出来的 Git 文件都是源文件，我们需要进行编译，进入 Git 解压目录，进行编译和安装, 安装位置（这里选择 `usr/local/git`）, 整个过程可能需要一定等待。</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">cd git-2.37.3</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">make prefix=/usr/local/git all</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">make prefix=/usr/local/git install</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#安装好后，我们需要配置环境变量，打开环境变量配置文件：</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">vim /etc/profile</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#在文件底部添加 Git 安装目录信息。</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">PATH=$PATH:/usr/local/git/bin</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">export PATH</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#刷新环境变量，使之生效</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">source /etc/profile</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#此时 Git 应该已经安装完成，可以查看 Git 版本号是否和你指定的版本一样：</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">git --version</span></span></code></pre>
+<ul>
+<li>Git 新用户与配置</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#创建 git 用户和密码</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">adduser git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">passwd git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#将 git 用户添加到 sudoers 文件中</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">chmod 740 /etc/sudoers</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">vim /etc/sudoers</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#在Allow root to run any commands anywhere下面添加 git 用户内容, 保存并退出</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">git      ALL=(ALL)       ALL</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#修改回 sudoers 文件权限</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">chmod 400 /etc/sudoers</span></span></code></pre>
+<ul>
+<li>测试<br />
+通过Git Bash Here将上面本地生成的 id_rsa.pub 公钥内容拷贝到远端服务器, 这个命令会默认在远端服务器 git 用户主目录下生成 <code>authorized_keys</code> 文件 （~/.ssh/authorized_keys）, 其中 <code>server_ip</code> 为公网 IP，不是内部 IP，别拷贝错了</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">ssh-copy-id -i ~/.ssh/id_rsa.pub git@server_ip</span></span></code></pre>
+<p>此时可以通过 ssh 命令(加上 <code>-v</code> 命令，可以输出详细 log)测试连接</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">ssh -v git@server_ip</span></span></code></pre>
+<h4 id="博客网站目录配置"><a class="anchor" href="#博客网站目录配置">#</a> 博客网站目录配置</h4>
+<ul>
+<li>创建博客网站目录位置</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#为博客网站创建根目录（这里选择 `/home/hexo`）</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">mkdir /home/hexo</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#赋予 git 用户权限</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">chown git:git -R /home/hexo</span></span></code></pre>
+<ul>
+<li>自动化配置</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#指定目录位置（这里选择 git 用户主目录 `/home/git`）创建一个名为 `blog.git` 的 `bare repo`</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">cd /home/git </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">git init --bare blog.git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#同样赋予 git 用户相应权限</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">chown git:git -R blog.git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#使用自动化配置，自然是要用到 Git 的钩子函数，这里我们需要 `post-receive`，在博客 hooks 目录下新建该文件：</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">vim blog.git/hooks/post-receive</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#然后添加如下内容(注意目录匹配)，保存并退出：</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#!/bin/sh</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">git --work-tree=/home/hexo --git-dir=/home/git/blog.git checkout -f</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#最后，赋予这个文件可执行权限</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">chmod +x /home/git/blog.git/hooks/post-receive</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">#接下来，创建个链接，以防后续 deploy 过程出错</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">sudo ln -s /usr/local/git/bin/git-receive-pack  /usr/bin/git-receive-pack</span></span></code></pre>
+<h4 id="nginx-安装和配置"><a class="anchor" href="#nginx-安装和配置">#</a> Nginx 安装和配置</h4>
+<ul>
+<li>安装</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install -y nginx</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">systemctl start nginx.service</span></span></code></pre>
+<p>这时，在浏览器中输入公网 IP 地址，应该可以看到 Nginx 默认的欢迎界面</p>
+<ul>
+<li>
+<p>配置</p>
+<p>这里配置 Nginx，将所有 Http 请求都重定向为 Https 请求，这就需要我们有 SSL 证书。<br />
+通过 <code>scp</code> 命令将 SSL 证书拷贝到远端服务器, 正常应该将 Nginx 的证书存放在 <code>/etc/nginx/cert</code> 目录下，这里选择存放在 <code>/home/ssl_cert</code> 下（如果目录不存在，请自行创建）</p>
+</li>
+</ul>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">scp ~/路径/证书.key root@server_ip:/home/ssl_cert</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">scp ~/路径/证书.pem root@server_ip:/home/ssl_cert</span></span></code></pre>
+<p>然后打开 Nginx 的配置文件进行整体配置</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">server{</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  listen 80;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  server_name dayarch.top; # 个人域名</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  rewrite ^(.*)$ https://$server_name$1 permanent; # 重定向</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">server {</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  listen 443; </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  server_name dayarch.top;  # 个人域名</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl on; </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_certificate      /路径/证书.pem; # .pem 证书</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_certificate_key  /路径/证书.key; # .key 证书</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_session_cache    shared:SSL:1m;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_session_timeout  5m;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_protocols TLSv1 TLSv1.1 TLSv1.2;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  ssl_prefer_server_ciphers  on;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  location / {</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    root   /home/hexo;  # 博客网站主目录</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    index index.php  index.html index.htm; </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    error_page  404              /404.html;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    location = /404.html {</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">        root   /usr/share/nginx/html;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    error_page   500 502 503 504  /50x.html;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    location = /50x.html {</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">        root   /usr/share/nginx/html;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    }</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">}</span></span></code></pre>
+<p>通过 <code>nginx -t</code> 命令进行检查，一切正常会输出如下结果：</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">nginx: the configuration file /etc/nginx/nginx.conf syntax is ok</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">nginx: configuration file /etc/nginx/nginx.conf test is successful</span></span></code></pre>
+<p>重启 Nginx 服务</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">systemctl restart nginx.service</span></span></code></pre>
+<p>至此，所有的准备工作都做完了，接下来，我们需要做一些博客配置</p>
+<h4 id="本地博客配置修改"><a class="anchor" href="#本地博客配置修改">#</a> 本地博客配置修改</h4>
+<p>我们需要将远端服务器的 Git 仓库信息配置到 Hexo 站点配置文件（<code>_config.yml</code>）中</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">deploy:</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE"> - type: git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">   repo: git@server_ip:/home/git/blog.git</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">   branch: master</span></span></code></pre>
+<p>陆续执行 hexo 的命令进行部署</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo clean</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo g</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">hexo d</span></span></code></pre>
+<p>至此，距离成功，我们只差最后一步</p>
+<h4 id="域名解析"><a class="anchor" href="#域名解析">#</a> 域名解析</h4>
+<p>配置好域名解析，将其指向云服务器的公网地址即可。</p>
+<div class="tags"><a href="/tags/hexo/" rel="tag"><i class="ic i-tag"></i>hexo</a><a href="/tags/Typecho/" rel="tag"><i class="ic i-tag"></i>Typecho</a></div></div><footer><div class="meta"><span class="item"><span class="icon"><i class="ic i-eye"></i></span><span class="text">总访问量：</span><span class="waline-pageview-count" id="twikoo_visitors" data-path="/toss/bkzt/">加载中...</span></span></div><div class="reward"><button><i class="ic i-heartbeat"></i>赞赏</button><p>请我喝[茶]~(￣▽￣)~*</p><div id="qr"><div><img loading="lazy" src="/images/wechatpay.png" alt="Aicsuk 微信支付"/><p>微信支付</p></div><div><img loading="lazy" src="/images/alipay.png" alt="Aicsuk 支付宝"/><p>支付宝</p></div></div></div><div id="copyright"><ul><li class="author"><strong>本文作者：</strong>Aicsuk<i class="ic i-at"><em>@</em></i>Aicsuk</li><li class="link"><strong>本文链接：</strong><a href="https://www.aicsuk.net/toss/bkzt/" title="叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程">https://www.aicsuk.net/toss/bkzt/</a></li><li class="license"><strong>版权声明：</strong>本站所有文章除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li></ul></div></footer></article></div><div class="post-nav"><div class="item left"><a href="/liferecord/jujia/" rel="prev" itemprop="url" data-background-image="https:&#x2F;&#x2F;cdn.aicsuk.net&#x2F;2022&#x2F;09&#x2F;12&#x2F;631efe5087361.png" title="原则居家的第十二天"><span class="type">上一篇</span><span class="category"><i class="ic i-flag"></i>生活记录</span><h3>原则居家的第十二天</h3></a></div><div class="item right"><a href="/toss/hexonote-1/" rel="next" itemprop="url" data-background-image="https:&#x2F;&#x2F;cdn.aicsuk.net&#x2F;2022&#x2F;09&#x2F;16&#x2F;6324376f8c45b.jpg" title="Hexo笔记——解决Shoka主题评论系统表情加载失败的问题"><span class="type">下一篇</span><span class="category"><i class="ic i-flag"></i>折腾学习</span><h3>Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</h3></a></div></div><div class="wrap" id="comments"></div></div><div id="sidebar"><div class="inner"><div class="panels"><div class="inner"><div class="contents panel pjax" data-title="文章目录"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#hexo%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85"><span class="toc-number">1.</span> <span class="toc-text"> Hexo本地安装</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87"><span class="toc-number">1.1.</span> <span class="toc-text"> 环境准备</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AE%89%E8%A3%85hexo"><span class="toc-number">1.2.</span> <span class="toc-text"> 安装Hexo</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%AE%89%E8%A3%85shoka%E4%B8%BB%E9%A2%98"><span class="toc-number">2.</span> <span class="toc-text"> 安装Shoka主题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%83%A8%E7%BD%B2%E5%88%B0%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8"><span class="toc-number">3.</span> <span class="toc-text"> 部署到云服务器</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%95%E9%85%8D%E7%BD%AE"><span class="toc-number">3.1.</span> <span class="toc-text"> 博客网站目录配置</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#nginx-%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE"><span class="toc-number">3.2.</span> <span class="toc-text"> Nginx 安装和配置</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%9C%AC%E5%9C%B0%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E4%BF%AE%E6%94%B9"><span class="toc-number">3.3.</span> <span class="toc-text"> 本地博客配置修改</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90"><span class="toc-number">3.4.</span> <span class="toc-text"> 域名解析</span></a></li></ol></li></ol></div><div class="related panel pjax" data-title="系列文章"><ul><li ><a href="/toss/hello-world/" rel="bookmark" title="Hello World">Hello World</a></li><li ><a href="/toss/ddos/" rel="bookmark" title="头一次遭到DDoS攻击">头一次遭到DDoS攻击</a></li><li ><a href="/toss/typecho/" rel="bookmark" title="又换博客程序了">又换博客程序了</a></li><li ><a href="/toss/Ubuntu22-04/" rel="bookmark" title="记录Ubuntu20.04升级到Ubuntu22.04的过程">记录Ubuntu20.04升级到Ubuntu22.04的过程</a></li><li ><a href="/toss/server-1/" rel="bookmark" title="忍不住又在服务器上花钱了">忍不住又在服务器上花钱了</a></li><li  class="active"><a href="/toss/bkzt/" rel="bookmark" title="叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程">叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</a></li><li ><a href="/toss/hexonote-1/" rel="bookmark" title="Hexo笔记——解决Shoka主题评论系统表情加载失败的问题">Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</a></li><li ><a href="/toss/hexotovirtualhost/" rel="bookmark" title="Hexo自动部署至虚拟主机">Hexo自动部署至虚拟主机</a></li><li ><a href="/toss/linuxgame/" rel="bookmark" title="Linux系统运行剑网三">Linux系统运行剑网三</a></li><li ><a href="/toss/aicsukworld/" rel="bookmark" title="注册了一个新域名">注册了一个新域名</a></li><li ><a href="/toss/qexobkjg/" rel="bookmark" title="博客现状">博客现状</a></li></ul></div><div class="overview panel" data-title="站点概览"><div class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><img class="image" loading="lazy" decoding="async" itemprop="image" alt="Aicsuk" src="/images/avatar.jpg"/><p class="name" itemprop="name">Aicsuk</p><div class="description" itemprop="description">此去前路皆坦途，归来亦无悔</div></div><nav class="state"><div class="item posts"><a href="/archives/"><span class="count">30</span><span class="name">文章</span></a></div><div class="item categories"><a href="/categories/"><span class="count">5</span><span class="name">分类</span></a></div><div class="item tags"><a href="/tags/"><span class="count">41</span><span class="name">标签</span></a></div></nav><div class="social"><a target="_blank" rel="noopener" href="https://github.com/aicsuk" class="item github" title="https:&#x2F;&#x2F;github.com&#x2F;aicsuk"><i class="ic i-github"></i></a><a target="_blank" rel="noopener" href="https://www.zhihu.com/people/aicsuk" class="item zhihu" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;aicsuk"><i class="ic i-zhihu"></i></a><a target="_blank" rel="noopener" href="https://music.163.com/#/user/home?id=58531575" class="item music" title="https:&#x2F;&#x2F;music.163.com&#x2F;#&#x2F;user&#x2F;home?id&#x3D;58531575"><i class="ic i-cloud-music"></i></a><a target="_blank" rel="noopener" href="https://weibo.com/7828970914" class="item weibo" title="https:&#x2F;&#x2F;weibo.com&#x2F;7828970914"><i class="ic i-weibo"></i></a><a href="mailto:6384485@qq.com" class="item email" title="mailto:6384485@qq.com"><i class="ic i-envelope"></i></a><a target="_blank" rel="noopener" href="https://space.bilibili.com/10034847" class="item bilibili" title="https:&#x2F;&#x2F;space.bilibili.com&#x2F;10034847"><i class="ic i-bilibili"></i></a></div><div class="menu"><li class="item"><a href="/" rel="section"><i class="ic i-home"></i>首页</a></li><li class="item"><a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a></li><li class="item"><a href="/link/" rel="section"><i class="ic i-heart"></i>朋友</a></li><li class="item"><a href="/about/" rel="section"><i class="ic i-user"></i>关于</a></li><li class="item"><a target="_blank" href="https://www.travellings.cn/go.html" rel="section noopener"><i class="ic i-train-subway-solid"></i>开往</a></li><li class="item"><a target="_blank" href="https://www.foreverblog.cn/go.html" rel="section noopener"><i class="ic i-a-Group1600"></i>虫洞</a></li></div></div></div></div><ul id="quick"><li class="prev pjax"><a href="/toss/hexonote-1/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a></li><li class="up"><i class="ic i-arrow-up"></i></li><li class="down"><i class="ic i-arrow-down"></i></li><li class="next pjax"><a href="/liferecord/jujia/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a></li><li class="percent"></li></ul></div></div><div class="dimmer"></div></div><div id="player"></div></main><footer id="footer"><div class="inner"><div class="widgets"></div><div class="status"><div class="copyright">&copy; 2021 -<span itemprop="copyrightYear">2025</span><span class="with-love"><i class="ic i-sakura rotate"></i></span><span class="author" itemprop="copyrightHolder">Aicsuk @ Aicsuk's World</span></div><div class="count"><span class="post-meta-item-icon"><i class="ic i-chart-area"></i></span><span title="站点总字数">34k 字</span><span class="post-meta-divider"> | </span><span class="post-meta-item-icon"><i class="ic i-coffee"></i></span><span title="站点阅读时长">31 分钟</span></div><div class="powered-by">基于 <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a> & Theme.<a target="_blank" rel="noopener" href="https://github.com/theme-shoka-x/hexo-theme-shokaX/">ShokaX</a></div><br/><span style="display:inline;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:var(--grey-5);"><a target="_blank" rel="noopener" href="https://beian.miit.gov.cn">蜀ICP备2022010555号-1</a><br/><a target="_blank" href="https://beian.mps.gov.cn/#/query/webSearch?code=51011202000525"><img loading="lazy" decoding="async" src="/images//wangan.png" style="max-width: 2em;display:inline;" width="20" height="20" alt="备案"/>川公网安备51011202000525号</a></span><div style="width: 100%;text-align:center;"><span id="time"></span></div><script>function createtime() {
+    const n = new Date("2021/04/11 13:00:00");
+    now.setTime(now.getTime() + 250), days = (now - n) / 1e3 / 60 / 60 / 24, dnum = Math.floor(days), hours = (now - n) / 1e3 / 60 / 60 - 24 * dnum, hnum = Math.floor(hours), 1 == String(hnum).length && (hnum = "0" + hnum), minutes = (now - n) / 1e3 / 60 - 1440 * dnum - 60 * hnum, mnum = Math.floor(minutes), 1 == String(mnum).length && (mnum = "0" + mnum), seconds = (now - n) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum, snum = Math.round(seconds), 1 == String(snum).length && (snum = "0" + snum), document.getElementById("time").innerHTML = "小破已存活" + dnum + " 天 " + hnum + " 小时 " + mnum + " 分 " + snum + " 秒"
+}
+
+const now = new Date;
+setInterval("createtime()", 250)</script></div><div style="width: 100%;text-align:center;"><span id="mengbei"></span><p id="mengbei"><a href="https://icp.gov.moe/?keyword=20221017" target="_blank"><img src="/images/Moe ICP.png" alt="" style="width:auto;height:20px;display:inline-block;"></a>&emsp;<a href="https://travel.moe/go.html?travel=on" target="_blank"><img src="/images/pink.png"  style="width:auto;height:16px;display:inline-block;" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"></a>&emsp;<a href="https://www.foreverblog.cn/" target="_blank" ><img src="/images/forever.png" alt="" style="width:auto;height:16px;display:inline-block;"></a>&emsp;<a href="https://notbyai.fyi/cn/" target="_blank" ><img src="/images/Not-By-AI.svg" alt="" style="width:auto;height:16px;display:inline-block;"></a></p></div></div></footer></div><script data-config type="text/javascript">var LOCAL = {
+    ispost: true,
+    path: `toss/bkzt/`,
+    favicon: {
+        show: `（●´3｀●）やれやれだぜ`,
+        hide: `(´Д｀)大変だ！`
+    },
+    search: {
+        placeholder: "文章搜索",
+        empty: "关于 「 ${query} 」，什么也没搜到",
+        stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    nocopy: "false",
+    copyright: `复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。`,
+    copy_tex: false,
+    katex: false,
+    mermaid: false,
+    audio: undefined,
+    nocopy: false,
+    outime: true,
+    template: `<div class="note warning"><p><span class="label warning">文章时效性提示</span><br>这是一篇发布于 {{publish}} 天前，最后一次更新在 {{updated}} 天前的文章，部分信息可能已经发生改变，请注意甄别。</p></div>`,
+    quiz: {
+        choice: `单选题`,
+        multiple: `多选题`,
+        true_false: `判断题`,
+        essay: `问答题`,
+        gap_fill: `填空题`,
+        mistake: `错题备注`
+    }
+};
+</script><script src="/js/siteInit.js?v=0.5.4" type="module" fetchpriority="high" defer></script></body></html>

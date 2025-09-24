@@ -1,0 +1,140 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"/><meta name="theme-color" content="#222"/><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><meta name="renderer" content="webkit"/><link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/><link rel="alternate" href="/rss.xml" title="Aicsuk" type="application/rss+xml"><link rel="alternate" href="/atom.xml" title="Aicsuk" type="application/atom+xml"><link rel="alternate" type="application/json" title="Aicsuk" href="https://www.aicsuk.net/feed.json"/><link rel="preconnect" href="https://s4.zstatic.net"/><link rel="preconnect" href="https://at.alicdn.com"/><link rel="preconnect" href="https://lf9-cdn-tos.bytecdntp.com"/><link rel="preconnect" href="https://lf6-unpkg.zstaticcdn.com"/><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/><link rel="dns-prefetch" href="https://unpkg.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ZCOOL%20KuaiLe:400,400italic,700,700italic%7CFredericka%20the%20Great:400,400italic,700,700italic%7CNoto%20Serif%20JP:400,400italic,700,700italic%7CNoto%20Serif%20SC:400,400italic,700,700italic%7CInconsolata:400,400italic,700,700italic&display=swap&subset=latin,latin-ext" media="none" onload="this.media&#x3D;&#39;all&#39;"><link rel="modulepreload" href="/js/siteInit.js"></link><link rel="modulepreload" href="/js/nyx-player-6UKDYOW6.js"></link><link rel="modulepreload" href="/js/copy-tex-L5X45C3D.js"></link><link rel="modulepreload" href="/js/post-2JPIR64B.js"></link><link rel="modulepreload" href="/js/chunk-VIRDU2P3.js"></link><link rel="modulepreload" href="/js/tcomments-H4Z3KOOY.js"></link><link rel="modulepreload" href="/js/search-IPMKZQOU.js"></link><link rel="modulepreload" href="/js/chunk-FU6DRZIE.js"></link><link rel="modulepreload" href="/js/chunk-Y3FFATYU.js"></link><link rel="modulepreload" href="/js/index.esm-LUMGU2L7.js"></link><link rel="modulepreload" href="/js/chunk-WWHD7ODF.js"></link><link rel="modulepreload" href="/js/chunk-GUMPUKJL.js"></link><link rel="modulepreload" href="/js/cf-patch.js"></link><link rel="stylesheet" href="/css/siteInit.css" media="none" onload="this.media&#x3D;&#39;all&#39;"></link><script src="/js/cf-patch.js?v=0.5.4" type="module" fetchpriority="high" defer></script><link rel="preload" href="https://cdn.aicsuk.net/2022/09/16/6324376f8c45b.jpg" as="image" fetchpriority="high"><meta name="keywords" content="Hexo,Valine"/><meta name="description" content="此去前路皆坦途，归来亦无悔"/><link rel="canonical" href="https://www.aicsuk.net/toss/hexonote-1/"><script>window.sakuraConfig = {
+  sakura: 30,
+  xSpeed: 0.5,
+  ySpeed: 0.5,
+  rSpeed: 0.03,
+  direction: "TopRight",
+  zIndex: -1
+};</script><script src="https://api.aicsuk.net/js/sakura-rain.js" defer="defer"></script><link rel="stylesheet" href="/css/post.css?v=0.5.4"><link rel="stylesheet" href="/css/mermaid.css?v=0.5.4"><!-- 临时处理--><link rel="stylesheet" media="none" onload="this.media='all'" href="https://s4.zstatic.net/ajax/libs/KaTeX/0.16.9/katex.min.css"><title>Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</title><meta name="generator" content="Hexo 8.0.0"></head><body itemscope itemtype="http://schema.org/WebPage"><div id="loading"><div class="cat"><div class="body"></div><div class="head"><div class="face"></div></div><div class="foot"><div class="tummy-end"></div><div class="bottom"></div><div class="legs left"></div><div class="legs right"></div></div><div class="paw"><div class="hands left"></div><div class="hands right"></div></div></div></div><div id="pagefind_mount"></div><div id="container"><header id="header" itemscope itemtype="http://schema.org/WPHeader"><div class="inner"><div id="brand"><div class="pjax"><h1 itemprop="name headline">Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</h1><div class="meta"><span class="item" title="创建时间：2022-09-16 16:32:54"><span class="icon"><i class="ic i-calendar"></i></span><span class="text">发表于</span><time itemprop="dateCreated datePublished" datetime="2022-09-16T16:32:54+08:00">2022-09-16</time></span><span class="item" title="本文字数"><span class="icon"><i class="ic i-pen"></i></span><span class="text">本文字数</span><span>3.4k</span><span class="text">字</span></span><span class="item" title="阅读时长"><span class="icon"><i class="ic i-clock"></i></span><span class="text">阅读时长</span><span>3 分钟</span></span></div></div></div><nav id="nav"><div class="inner"><div class="toggle"><div class="lines" aria-label="切换导航栏"><span class="line"></span><span class="line"></span><span class="line"></span></div></div><ul class="menu"><li class="item title"><a href="/" rel="start">Aicsuk's World</a></li></ul><ul class="right" id="rightNav"><li class="item theme"><i class="ic i-sun"></i></li><li class="item search"><i class="ic i-search"></i></li></ul></div></nav></div><div class="pjax" id="imgs"><img src="https://cdn.aicsuk.net/2022/09/16/6324376f8c45b.jpg" loading="eager" decoding="async" fetchpriority="high" alt="Aicsuk"></div></header><div id="waves"><svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"></use><use xlink:href="#gentle-wave" x="48" y="3"></use><use xlink:href="#gentle-wave" x="48" y="5"></use><use xlink:href="#gentle-wave" x="48" y="7"></use></g></svg></div><main><div class="inner"><div class="pjax" id="main"><div class="article wrap"><div class="breadcrumb" itemListElement itemscope itemtype="https://schema.org/BreadcrumbList"><i class="ic i-home"></i><span><a href="/">首页</a></span><i class="ic i-angle-right"></i><span class="current" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a href="/categories/%E6%8A%98%E8%85%BE%E5%AD%A6%E4%B9%A0/" itemprop="item" rel="index" title="分类于折腾学习"><span itemprop="name">折腾学习<meta itemprop="position" content="0"/></span></a></span></div><article class="post block" itemscope="itemscope" itemtype="http://schema.org/Article" data-pagefind-body="data-pagefind-body" lang="zh-CN"><link itemprop="mainEntityOfPage" href="https://www.aicsuk.net/toss/hexonote-1/"/><span hidden="hidden" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><meta itemprop="image" content="/images/avatar.jpg"/><meta itemprop="name" content="Aicsuk"/><meta itemprop="description" content="一个小小的博客, 此去前路皆坦途，归来亦无悔"/></span><span hidden="hidden" itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aicsuk"/></span><div class="body md" itemprop="articleBody"><p>近期将博客换成Hexo之后，最开始是部署在Github Pages上面，访问时一切正常。后面觉得Github Pages访问速度时快时慢，边重新部署在国内的华为云服务器上，这时问题就出来了，评论系统里面的表情图片正常情况下加载不出来，要搭梯子才行。<img loading="lazy" src="https://cdn.aicsuk.net/2022/09/15/63227952eaa1e.png" alt="表情加载失败" /></p>
+<p>后来参考了<a target="_blank" rel="noopener" href="https://www.reversesacle.com/">ReverseSacle大佬</a>关于[Shoka主题功能的一些补充介绍](<a target="_blank" rel="noopener" href="https://www.reversesacle.com/Supplement-for-theme-of-shoka/">Hexo-Shoka主题功能介绍补充点 | ReverseSacle-Blog = 逆转天平 = 执着过去的人,无法迈向未来</a>)一文，并请教了ReverseSacle大佬后才了解到，shoka 主题使用的是 <code>Valine-Admin</code> 魔改评论系统，基本上都使用了<code> Jsdelivr</code> 的资源，并由于国内的服务器无法访问资源才导致的表情加载失败。</p>
+<p>为防止自己以后会忘记，特此记录下解决过程。</p>
+<h3 id="vercel-反代-jsdelivr-的加速链接"><a class="anchor" href="#vercel-反代-jsdelivr-的加速链接">#</a> Vercel 反代 Jsdelivr 的加速链接</h3>
+<p>这一步，ReverseSacle大佬的文章中是以 <code>Windows10</code> 系统为例，但我习惯使用 <code>Linux</code> 系统，所以此次我使用 <code>Centos 8.2</code> 系统为例。</p>
+<ul>
+<li>
+<p>安装 <code>Node.js</code></p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install update</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install nodejs</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">yum install npm</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">npm install -g n</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">n lts</span></span></code></pre>
+</li>
+<li>
+<p>安装 <code>vercel</code></p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">npm install -g vercel</span></span></code></pre>
+</li>
+<li>
+<p>安装完 <code>vercel</code> 后，输入 <code>vercel login</code> ，会让你选择登陆 <code>vercel</code> 的方式（选择的位置以 <code>等待输入光标</code> 为准， <code>Enter</code> 键确认，具体依情况选择)，之后会跳出登入页面<img loading="lazy" src="https://cdn.aicsuk.net/2022/09/16/63244032ccfbb.png" alt="如图所示" /><br />
+这里我使用的是邮箱登陆，会出现下图中的情况，这是 <code>vercel</code> 给你登陆邮箱发送了确认邮件，需要你在邮件中点击确认链接才能登陆<img loading="lazy" src="https://cdn.aicsuk.net/2022/09/16/632442beabef2.png" alt="邮箱登陆" /></p>
+</li>
+<li>
+<p>新建一个名为 <code>jd_gh</code> 文件夹 (名字自定义)，进入到 jd_gh 文件夹中，新建一个 <code>jd_gh.json</code> 文件 (名字自定义)</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">mkdir jd_gh</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">cd jd_gh</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">touch jd_gh.json</span></span></code></pre>
+</li>
+<li>
+<p>用 <code>文本编辑器</code> 打开 <code>jd_gh.json</code> 文件并输入下方反代代码</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">{</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">        "version": 2,</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">        "routes": [</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">                {"src": "/(.*)","dest": "https://cdn.jsdelivr.net/$1"}</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">                ]</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">}</span></span></code></pre>
+</li>
+<li>
+<p>最后输入命令 <code>vercel -A jd_gh.json --prod</code> 来在 vercel 上部署</p>
+</li>
+<li>
+<p><ins class="dot">注意 <code>what's your project's name?</code> 这个提示，此处是提示输入你部署项目所需要的名称 (按喜好来定就行了，另外这里不支持特殊字符， <code>-</code> 号除外)，其他的选项按下方图片提示来选择即可</ins><img loading="lazy" src="https://cdn.aicsuk.net/2022/09/16/63244364d92b3.webp" alt="直接使用ReverseSacle大佬的图" /></p>
+</li>
+<li>
+<p>最后，进入 Vercel 官网，登入后可以看到刚刚创建的项目，点击项目，进入后记录下 <code>DOMAINS</code> 处的链接，也可以绑定自己的域名使用</p>
+</li>
+</ul>
+<h3 id="解决评论区表情图片加载失败问题"><a class="anchor" href="#解决评论区表情图片加载失败问题">#</a> 解决评论区表情图片加载失败问题</h3>
+<ul>
+<li>
+<p>在 <a target="_blank" rel="noopener" href="https://github.com/amehime/MiniValine/blob/master/dist/MiniValine.min.js">MiniValine (Github)</a> 下载 <code>MiniValine.min.js</code> 文件，并将 <code>MiniValine.min.js</code> 文件放入到 hexo 根目录的 <code>./themes/shoka/source/js</code> 文件夹中</p>
+</li>
+<li>
+<p>打开 <code>MiniValine.min.js</code> 文件，找到 <code>VERSION=&quot;4.2.2&quot;</code> 这一项，将 <code>t.EUrl</code> 后链接中的XXX替换为刚刚记录的 <code>DOMAINS</code> 地址或自己绑定的域名</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">t.VERSION = "4.2.2",</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">t.GBUrl = "https://gravatar.loli.net/avatar/",</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">t.EUrl = ["https://xxxx/npm/alus@latest", </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">          "https://xxxx/gh/MiniValine/qq@master", </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">          "https://xxxx/gh/MiniValine/Bilibilis@master",</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">          "https://xxxx/gh/MiniValine/tieba@master", </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">          "https://xxxx/gh/MiniValine/twemoji@master",</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">          "https://xxxx/gh/MiniValine/weibo@master"]</span></span></code></pre>
+</li>
+<li>
+<p>打开 hexo 根目录 <code>./themes/shoka/_config.yml</code> 文件，滑倒最后，找到 <code>valine</code> 元素，将其参数设为 <code>https://博客域名/js/MiniValine.min.js</code></p>
+</li>
+<li>
+<p>最后修改 <code>./themes/shoka/source/js/_app/utils.js</code>文件第26~35行处</p>
+<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code class="language-html"><span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">//将此代码if(str.indexOf('npm')>-1||str.indexOf('gh')>-1||str.indexOf('combine')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">//拆分为下面的代码</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('npm')>-1||str.indexOf('combine')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">     return "https://cdn.jsdelivr.net/" + str</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('js')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    return str  </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('gh')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    return "https://cdn.jsdelivr.net/" + str</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">//代码示例</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">const assetUrl = function(asset, type) {</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  var str = CONFIG[asset][type]</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('npm')>-1||str.indexOf('combine')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">     return "https://cdn.jsdelivr.net/" + str</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('js')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    return str  </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    </span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  if(str.indexOf('gh')>-1)</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">    return "https://cdn.jsdelivr.net/" + str</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">  return statics + str;</span></span>
+<span class="line"><span style="color:#393A34;--shiki-dark:#DBD7CAEE">}</span></span></code></pre>
+</li>
+</ul>
+<div class="tags"><a href="/tags/Hexo/" rel="tag"><i class="ic i-tag"></i>Hexo</a><a href="/tags/Shoka%E4%B8%BB%E9%A2%98/" rel="tag"><i class="ic i-tag"></i>Shoka主题</a><a href="/tags/Valine/" rel="tag"><i class="ic i-tag"></i>Valine</a></div></div><footer><div class="meta"><span class="item"><span class="icon"><i class="ic i-eye"></i></span><span class="text">总访问量：</span><span class="waline-pageview-count" id="twikoo_visitors" data-path="/toss/hexonote-1/">加载中...</span></span></div><div class="reward"><button><i class="ic i-heartbeat"></i>赞赏</button><p>请我喝[茶]~(￣▽￣)~*</p><div id="qr"><div><img loading="lazy" src="/images/wechatpay.png" alt="Aicsuk 微信支付"/><p>微信支付</p></div><div><img loading="lazy" src="/images/alipay.png" alt="Aicsuk 支付宝"/><p>支付宝</p></div></div></div><div id="copyright"><ul><li class="author"><strong>本文作者：</strong>Aicsuk<i class="ic i-at"><em>@</em></i>Aicsuk</li><li class="link"><strong>本文链接：</strong><a href="https://www.aicsuk.net/toss/hexonote-1/" title="Hexo笔记——解决Shoka主题评论系统表情加载失败的问题">https://www.aicsuk.net/toss/hexonote-1/</a></li><li class="license"><strong>版权声明：</strong>本站所有文章除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li></ul></div></footer></article></div><div class="post-nav"><div class="item left"><a href="/toss/bkzt/" rel="prev" itemprop="url" data-background-image="https:&#x2F;&#x2F;cdn.aicsuk.net&#x2F;2022&#x2F;09&#x2F;14&#x2F;632182a349ace.jpg" title="叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程"><span class="type">上一篇</span><span class="category"><i class="ic i-flag"></i>折腾学习</span><h3>叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</h3></a></div><div class="item right"><a href="/liferecord/hjuhr150/" rel="next" itemprop="url" data-background-image="https:&#x2F;&#x2F;cdn.aicsuk.net&#x2F;2022&#x2F;10&#x2F;11&#x2F;6344f306b77d2.png" title="新车100公里纪念"><span class="type">下一篇</span><span class="category"><i class="ic i-flag"></i>生活记录</span><h3>新车100公里纪念</h3></a></div></div><div class="wrap" id="comments"></div></div><div id="sidebar"><div class="inner"><div class="panels"><div class="inner"><div class="contents panel pjax" data-title="文章目录"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#vercel-%E5%8F%8D%E4%BB%A3-jsdelivr-%E7%9A%84%E5%8A%A0%E9%80%9F%E9%93%BE%E6%8E%A5"><span class="toc-number">1.</span> <span class="toc-text"> Vercel 反代 Jsdelivr 的加速链接</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%A7%A3%E5%86%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A1%A8%E6%83%85%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98"><span class="toc-number">2.</span> <span class="toc-text"> 解决评论区表情图片加载失败问题</span></a></li></ol></div><div class="related panel pjax" data-title="系列文章"><ul><li ><a href="/toss/hello-world/" rel="bookmark" title="Hello World">Hello World</a></li><li ><a href="/toss/ddos/" rel="bookmark" title="头一次遭到DDoS攻击">头一次遭到DDoS攻击</a></li><li ><a href="/toss/typecho/" rel="bookmark" title="又换博客程序了">又换博客程序了</a></li><li ><a href="/toss/Ubuntu22-04/" rel="bookmark" title="记录Ubuntu20.04升级到Ubuntu22.04的过程">记录Ubuntu20.04升级到Ubuntu22.04的过程</a></li><li ><a href="/toss/server-1/" rel="bookmark" title="忍不住又在服务器上花钱了">忍不住又在服务器上花钱了</a></li><li ><a href="/toss/bkzt/" rel="bookmark" title="叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程">叒换了博客程序——记录Hexo搭建、配置、部署到云服务器的全过程</a></li><li  class="active"><a href="/toss/hexonote-1/" rel="bookmark" title="Hexo笔记——解决Shoka主题评论系统表情加载失败的问题">Hexo笔记——解决Shoka主题评论系统表情加载失败的问题</a></li><li ><a href="/toss/hexotovirtualhost/" rel="bookmark" title="Hexo自动部署至虚拟主机">Hexo自动部署至虚拟主机</a></li><li ><a href="/toss/linuxgame/" rel="bookmark" title="Linux系统运行剑网三">Linux系统运行剑网三</a></li><li ><a href="/toss/aicsukworld/" rel="bookmark" title="注册了一个新域名">注册了一个新域名</a></li><li ><a href="/toss/qexobkjg/" rel="bookmark" title="博客现状">博客现状</a></li></ul></div><div class="overview panel" data-title="站点概览"><div class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><img class="image" loading="lazy" decoding="async" itemprop="image" alt="Aicsuk" src="/images/avatar.jpg"/><p class="name" itemprop="name">Aicsuk</p><div class="description" itemprop="description">此去前路皆坦途，归来亦无悔</div></div><nav class="state"><div class="item posts"><a href="/archives/"><span class="count">30</span><span class="name">文章</span></a></div><div class="item categories"><a href="/categories/"><span class="count">5</span><span class="name">分类</span></a></div><div class="item tags"><a href="/tags/"><span class="count">41</span><span class="name">标签</span></a></div></nav><div class="social"><a target="_blank" rel="noopener" href="https://github.com/aicsuk" class="item github" title="https:&#x2F;&#x2F;github.com&#x2F;aicsuk"><i class="ic i-github"></i></a><a target="_blank" rel="noopener" href="https://www.zhihu.com/people/aicsuk" class="item zhihu" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;aicsuk"><i class="ic i-zhihu"></i></a><a target="_blank" rel="noopener" href="https://music.163.com/#/user/home?id=58531575" class="item music" title="https:&#x2F;&#x2F;music.163.com&#x2F;#&#x2F;user&#x2F;home?id&#x3D;58531575"><i class="ic i-cloud-music"></i></a><a target="_blank" rel="noopener" href="https://weibo.com/7828970914" class="item weibo" title="https:&#x2F;&#x2F;weibo.com&#x2F;7828970914"><i class="ic i-weibo"></i></a><a href="mailto:6384485@qq.com" class="item email" title="mailto:6384485@qq.com"><i class="ic i-envelope"></i></a><a target="_blank" rel="noopener" href="https://space.bilibili.com/10034847" class="item bilibili" title="https:&#x2F;&#x2F;space.bilibili.com&#x2F;10034847"><i class="ic i-bilibili"></i></a></div><div class="menu"><li class="item"><a href="/" rel="section"><i class="ic i-home"></i>首页</a></li><li class="item"><a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a></li><li class="item"><a href="/link/" rel="section"><i class="ic i-heart"></i>朋友</a></li><li class="item"><a href="/about/" rel="section"><i class="ic i-user"></i>关于</a></li><li class="item"><a target="_blank" href="https://www.travellings.cn/go.html" rel="section noopener"><i class="ic i-train-subway-solid"></i>开往</a></li><li class="item"><a target="_blank" href="https://www.foreverblog.cn/go.html" rel="section noopener"><i class="ic i-a-Group1600"></i>虫洞</a></li></div></div></div></div><ul id="quick"><li class="prev pjax"><a href="/liferecord/hjuhr150/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a></li><li class="up"><i class="ic i-arrow-up"></i></li><li class="down"><i class="ic i-arrow-down"></i></li><li class="next pjax"><a href="/toss/bkzt/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a></li><li class="percent"></li></ul></div></div><div class="dimmer"></div></div><div id="player"></div></main><footer id="footer"><div class="inner"><div class="widgets"></div><div class="status"><div class="copyright">&copy; 2021 -<span itemprop="copyrightYear">2025</span><span class="with-love"><i class="ic i-sakura rotate"></i></span><span class="author" itemprop="copyrightHolder">Aicsuk @ Aicsuk's World</span></div><div class="count"><span class="post-meta-item-icon"><i class="ic i-chart-area"></i></span><span title="站点总字数">34k 字</span><span class="post-meta-divider"> | </span><span class="post-meta-item-icon"><i class="ic i-coffee"></i></span><span title="站点阅读时长">31 分钟</span></div><div class="powered-by">基于 <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a> & Theme.<a target="_blank" rel="noopener" href="https://github.com/theme-shoka-x/hexo-theme-shokaX/">ShokaX</a></div><br/><span style="display:inline;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:var(--grey-5);"><a target="_blank" rel="noopener" href="https://beian.miit.gov.cn">蜀ICP备2022010555号-1</a><br/><a target="_blank" href="https://beian.mps.gov.cn/#/query/webSearch?code=51011202000525"><img loading="lazy" decoding="async" src="/images//wangan.png" style="max-width: 2em;display:inline;" width="20" height="20" alt="备案"/>川公网安备51011202000525号</a></span><div style="width: 100%;text-align:center;"><span id="time"></span></div><script>function createtime() {
+    const n = new Date("2021/04/11 13:00:00");
+    now.setTime(now.getTime() + 250), days = (now - n) / 1e3 / 60 / 60 / 24, dnum = Math.floor(days), hours = (now - n) / 1e3 / 60 / 60 - 24 * dnum, hnum = Math.floor(hours), 1 == String(hnum).length && (hnum = "0" + hnum), minutes = (now - n) / 1e3 / 60 - 1440 * dnum - 60 * hnum, mnum = Math.floor(minutes), 1 == String(mnum).length && (mnum = "0" + mnum), seconds = (now - n) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum, snum = Math.round(seconds), 1 == String(snum).length && (snum = "0" + snum), document.getElementById("time").innerHTML = "小破已存活" + dnum + " 天 " + hnum + " 小时 " + mnum + " 分 " + snum + " 秒"
+}
+
+const now = new Date;
+setInterval("createtime()", 250)</script></div><div style="width: 100%;text-align:center;"><span id="mengbei"></span><p id="mengbei"><a href="https://icp.gov.moe/?keyword=20221017" target="_blank"><img src="/images/Moe ICP.png" alt="" style="width:auto;height:20px;display:inline-block;"></a>&emsp;<a href="https://travel.moe/go.html?travel=on" target="_blank"><img src="/images/pink.png"  style="width:auto;height:16px;display:inline-block;" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"></a>&emsp;<a href="https://www.foreverblog.cn/" target="_blank" ><img src="/images/forever.png" alt="" style="width:auto;height:16px;display:inline-block;"></a>&emsp;<a href="https://notbyai.fyi/cn/" target="_blank" ><img src="/images/Not-By-AI.svg" alt="" style="width:auto;height:16px;display:inline-block;"></a></p></div></div></footer></div><script data-config type="text/javascript">var LOCAL = {
+    ispost: true,
+    path: `toss/hexonote-1/`,
+    favicon: {
+        show: `（●´3｀●）やれやれだぜ`,
+        hide: `(´Д｀)大変だ！`
+    },
+    search: {
+        placeholder: "文章搜索",
+        empty: "关于 「 ${query} 」，什么也没搜到",
+        stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    nocopy: "false",
+    copyright: `复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。`,
+    copy_tex: false,
+    katex: false,
+    mermaid: false,
+    audio: undefined,
+    nocopy: false,
+    outime: true,
+    template: `<div class="note warning"><p><span class="label warning">文章时效性提示</span><br>这是一篇发布于 {{publish}} 天前，最后一次更新在 {{updated}} 天前的文章，部分信息可能已经发生改变，请注意甄别。</p></div>`,
+    quiz: {
+        choice: `单选题`,
+        multiple: `多选题`,
+        true_false: `判断题`,
+        essay: `问答题`,
+        gap_fill: `填空题`,
+        mistake: `错题备注`
+    }
+};
+</script><script src="/js/siteInit.js?v=0.5.4" type="module" fetchpriority="high" defer></script></body></html>
